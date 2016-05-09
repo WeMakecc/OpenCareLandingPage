@@ -270,7 +270,7 @@ h3 {
 	width: auto;
 	height: 36px;
 }*/
-.button:hover{
+.button:hover {
 	background-color: #FFA500;
 }
 .button:active {
@@ -282,9 +282,9 @@ h3 {
 /*    -webkit-box-shadow: inset 0px 2px 5px 0px rgba(0,0,0,0.28);
 -moz-box-shadow: inset 0px 2px 5px 0px rgba(0,0,0,0.28);
 box-shadow: inset 0px 2px 5px 0px rgba(0,0,0,0.28);*/
--webkit-box-shadow: inset 0px 2px 2px 0px rgba(0,0,0,0.38);
--moz-box-shadow: inset 0px 2px 2px 0px rgba(0,0,0,0.38);
-box-shadow: inset 0px 2px 2px 0px rgba(0,0,0,0.38);
+-webkit-box-shadow: inset 0px 2px 2px 0px rgba(0,0,0,0.18);
+-moz-box-shadow: inset 0px 2px 2px 0px rgba(0,0,0,0.18);
+box-shadow: inset 0px 2px 2px 0px rgba(0,0,0,0.18);
 -webkit-transition: all 0s ease;
 	-moz-transition: all 0s ease;
 	-ms-transition: all 0s ease;
@@ -292,6 +292,32 @@ box-shadow: inset 0px 2px 2px 0px rgba(0,0,0,0.38);
 	transition: all 0s ease;
 top: 3px;
 background-color: #FF9200;
+}
+a:last-of-type .button{
+	margin-left: 20px;
+	color:rgb(41,160,209);
+	background-color: rgba(255,255,255,.3);
+	border: 1px solid rgb(41,160,209);
+	box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+}
+a:last-of-type .button:hover{
+	background-color: rgb(41,160,209);
+	color: #ffffff;
+}
+a:last-of-type .button:active{
+	-webkit-box-shadow: inset 0px 2px 2px 0px rgba(0,0,0,0.18);
+-moz-box-shadow: inset 0px 2px 2px 0px rgba(0,0,0,0.18);
+box-shadow: inset 0px 2px 2px 0px rgba(0,0,0,0.18);
+-webkit-transition: all 0s ease;
+	-moz-transition: all 0s ease;
+	-ms-transition: all 0s ease;
+	-o-transition: all 0s ease;
+	transition: all 0s ease;
+top: 3px;
+background-color: #602480;
+border: none;
 }
 
 
