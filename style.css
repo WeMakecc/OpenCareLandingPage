@@ -140,6 +140,7 @@ h3 {
 	text-align: center;
 	/*text-align:justify;	
 	text-justify:inter-word;*/
+	color: #2DA9DE;
 }
 
 #mugshots {
@@ -372,7 +373,7 @@ border: none;
 }
 
 #what .content_block.coming_soon .content_text.prose {
-	color: rgb(211,211,211);
+	color: rgb(211,211,211);	
 }
 
 /*.content_image {
@@ -392,7 +393,8 @@ border: none;
 	width: 120px;
 	height: 120px;
 	border-radius: 50%;
-	background-color: rgb(41,160,209);
+	/*background-color: rgb(41,160,209);*/
+	background-color: #2DA9DE;
 	margin: auto;
 	text-align: center;
 	-webkit-transition: all .2s ease;
@@ -402,12 +404,23 @@ border: none;
 	transition: all .2s ease;
 }
 #what > a:hover .illu{
-	background-color: rgb(95,35,128);
+	/*background-color: rgb(95,35,128);*/
+	background-color: #602480;
 }
 #what > a:hover .prose{
-	color: rgb(41,160,209);
+	/*color: rgb(41,160,209);*/
+	color: #602480;
 }
 .illu > .fa{
+	color: #ffffff;
+	font-size: 3.3em;
+	/*position: absolute;
+	left: calc(50% - .5em);
+	top: 50%;*/
+	vertical-align: middle;
+	line-height: 120px;
+}
+.illu > .zmdi{
 	color: #ffffff;
 	font-size: 3.3em;
 	/*position: absolute;
