@@ -37,21 +37,6 @@ div {
 	display:block;
 }
 
-.title{
-	font-family: 'Montserrat';
-    font-size: 5.7em;
-    font-weight: 400;
-    /*line-height: 1.3em;*/
-    line-height: auto;
-    /* color: #ffffff; */
-    color: rgb(95,35,128);
-    padding: 0;
-    margin: 0;
-    text-transform: uppercase;
-    padding-bottom: 15px;
-    letter-spacing: -2px;
-}
-
 h1 {
 	font-family: 'Open Sans';
 	/*font-size:48px;*/
@@ -89,12 +74,34 @@ h3 {
 	text-decoration: none;
 }
 
+.title{
+	font-family: 'Montserrat';
+    font-size: 5.7em;
+    font-weight: 400;
+    /*line-height: 1.3em;*/
+    line-height: auto;
+    /* color: #ffffff; */
+    color: rgb(95,35,128);
+    padding: 0;
+    margin: 0;
+    text-transform: lowercase;
+    /*padding-bottom: 15px;*/
+    letter-spacing: -2px;
+    vertical-align: middle;
+}
+.open{
+	color: #602480;
+}
+.care{
+	color: #2D9ED3;
+}
+
 .title_container svg {
 	display: inline;
-	max-width: 80px;
-	vertical-align: text-bottom;
-	padding: 0 20px 0 0;
-	fill: rgb(95,35,128);
+	max-width: 140px;
+	vertical-align: middle;
+	padding: 0 0px 0 0;
+	/*fill: rgb(95,35,128);*/
 }
 
 /*#shadow {
