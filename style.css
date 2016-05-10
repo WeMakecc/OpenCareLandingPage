@@ -207,27 +207,7 @@ h3 {
 }
 
 
-/*.phone-holder {
-  position: absolute;
-  left: 0;
-  width: 373px;
-  height: 699px;
-  overflow: hidden;
-  background: url(assets/iphone_sm.png) no-repeat;
-}
 
-.phone-holder img {
-  float: left;
-  position: absolute;
-}
-
-.phone-contentA {
-	left: 27px;
-	  top: 100px;
-	  z-index: 500000;
-	  max-width: 301px;
-	  height: auto;
-}*/
 
 .button {
 	font-family: 'Open Sans';
@@ -267,10 +247,7 @@ h3 {
     top: 6px;
 }*/
 
-/*.appstore_button {
-	width: auto;
-	height: 36px;
-}*/
+
 .button:hover {
 	background-color: #FFA500;
 }
@@ -323,7 +300,7 @@ border: none;
 
 
 
-/* MAIN CONTENT - WHAT IS HOWDO */
+/* MAIN CONTENT  */
 
 #content_wrapper {
 	width:100%;
@@ -376,18 +353,7 @@ border: none;
 	color: rgb(211,211,211);	
 }
 
-/*.content_image {
-	margin:auto;
-	padding-top:40px;	
-}
 
-.content_image_right {
-	float: right;
-}
-
-.content_image_left {
-	float: left;
-}*/
 
 .illu{
 	width: 120px;
@@ -433,23 +399,7 @@ border: none;
 	background-color: rgb(211,211,211);
 }
 
-/*#icon02 {
-	padding: 20px 40px 0 0;
-}
-.copy02 {
-	padding-top: 90px;
-}
-#icon03 {
-	padding: 0;
-}
-.copy03 {
-	padding-top:60px;
-	max-width: 400px;
-	margin-left:0;
-}*/
-/*#feature {
-	padding:10px;
-}*/
+
 
 
 
@@ -502,81 +452,7 @@ border: none;
 	max-width: 550px;
 }
 
-/*
-#howdo_player {
-	background: none;
 
-	max-height:500px; 
-	max-width:500px; 
-	background-color:#fff; 
-	margin:0px auto 20px auto; 
-	padding:10px;
-	float: none;
-	position: relative;
-	overflow: hidden;
-}
-
-#howdo_player img {
-  float: none;
-  position: absolute;
-}
-
-.phone-contentB {
-	  z-index: 500000;
-	  height: auto;
-}
-.header_sub {
-	font-size:40px;
-	border-bottom: 1px #4eb9e6 dashed; 
-	color:#fff; 
-	background-color:#4eb9e6; 
-	opacity:0.8;
-}*/
-
-
-/* DOWNLOAD BLOCK */
-
-/*#download {
-	background-color: #252525;
-}
-
-#appstore {
-	max-width: 600px;
-	height: auto;
-	padding-top: 70px;
-	text-align: center;
-	float: none;
-	display: block;
-}
-.appstore_ribbon {
-	float: right;
-	max-width: 436px;
-	height: auto;
-}
-.appstore_iphone {
-	float: left;
-	width: auto;
-	height: auto;
-	margin-top: -50px;
-}
-.appstore_trigger {
-	float: left;
-	max-width: 400px;
-	height: auto;
-	margin-left: 100px;
-	margin-top: 10px;
-}
-.appstore_trigger a {
-	opacity: 0.8;
-	-o-transition:opacity .2s ease-out;
-  -ms-transition:opacity .2s ease-out;
-  -moz-transition:opacity .2s ease-out;
-  -webkit-transition:opacity .2s ease-out;
-  transition:opacity .2s ease-out;
-}
-.appstore_trigger a:hover {
-	opacity: 1;
-}*/
 
 
 
@@ -587,39 +463,7 @@ border: none;
 	background-color: #ffffff;
 	padding-bottom: 40px;
 }
-/*.first {
-	text-align: left;
-	padding-top:40px;
-}
-.press_quote {
-	font-family: Georgia, Times, serif;
-	color: #ededed;
-	font-style: italic;
-	text-align: center;
-	padding-bottom:20px;
-	padding-top:30px;
-}
-.press_quote img {
-	padding: 10px;
-}
-.press_quote img.first {
-	padding-left: 0;
-}
-.press_quote img.last {
-	padding-right: 0;
-}
 
-.press_quote a {
-	opacity: 0.8;
-	-o-transition:opacity .2s ease-out;
-  -ms-transition:opacity .2s ease-out;
-  -moz-transition:opacity .2s ease-out;
-  -webkit-transition:opacity .2s ease-out;
-  transition:opacity .2s ease-out;
-}
-.press_quote a:hover {
-	opacity: 1;
-}*/
 
 #press_logo_container {
 	max-width: 790px;
