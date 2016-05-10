@@ -744,6 +744,29 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f8f8f8', end
 }
 
 
+/* SOCIALS */
+#socials{
+	background-color: #3C3C3B;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-flex-direction: row 
+	flex-direction: row;
+	-webkit-align-items: center;
+	align-items: center;
+	-webkit-justify-content: center;
+	justify-content: center;
+	padding: 15px 0;
+}
+#socials .fa{
+	color: #ffffff;
+	font-size: 2em;
+	margin: 0 8px;
+}
+#socials a:hover .fa{
+	color: #2DA9DE;
+}
+
+
 /* RETURN TO TOP */
 
 /*#return-to-top {
