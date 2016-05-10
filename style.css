@@ -762,7 +762,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f8f8f8', end
 	font-size: 2em;
 	margin: 0 8px;
 }
-#socials a:hover .fa{
+#socials a:hover .fa, #socials a:active .fa{
 	color: #2DA9DE;
 }
 
