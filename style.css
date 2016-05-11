@@ -305,7 +305,8 @@ border: none;
 #content_wrapper {
 	width:100%;
 	position:absolute;
-	top: 540px;
+	/*top: 540px;*/
+	top: 520px;
 	z-index: 999;
 }
 
