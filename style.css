@@ -457,13 +457,21 @@ border: none;
    -webkit-justify-content: center;
    justify-content: center;
 }
-.process_illu {
+/*.process_illu {
 	max-width: 600px;
 }
 .process_illu svg {
 	max-width: 600px;
+}*/
+.howitworks_slider {
+	margin-top: 40px;
+	max-width: 550px;
+	background: url(assets/OC-Illustration-SystemLight-bg.svg);
+	background-size: cover;
 }
-
+.howitworks_slider img {
+	max-width: 550px;
+}
 
 
 

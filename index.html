@@ -17,6 +17,29 @@
 	<!-- <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet"> -->
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/material-design-iconic-font/2.2.0/css/material-design-iconic-font.min.css">
 
+	<!-- SLICK SLIDER -->
+	<link rel="stylesheet" type="text/css" href="slick/slick.css"/>
+	<!-- Add the new slick-theme.css if you want the default styling -->
+	<link rel="stylesheet" type="text/css" href="slick/slick-theme.css"/>
+
+	<script type="text/javascript" src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
+	<script type="text/javascript" src="http://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+	<script type="text/javascript" src="slick/slick.min.js"></script>
+
+	<script type="text/javascript">
+		$(document).ready(function(){
+		  $('.howitworks_slider').slick({
+		    infinite: true,
+			speed: 300,
+			fade: true,
+			cssEase: 'linear',
+			autoplay: true,
+			autoplaySpeed: 3000,
+			arrows: false 
+		  });
+		});
+	</script>
+
 
 <!-- Viewport -->
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
@@ -37,8 +60,7 @@
 <!-- Jquery -->
 <!-- <script type="text/javascript" src="/vendor/js/jquery-1.8.2.min.js"></script> -->
 <!-- <script type="text/javascript" src="http://code.jquery.com/jquery-1.8.2.min.js"></script> -->
-<script type="text/javascript" src="jquery-1.8.2.min.js"></script>
-
+<!-- <script type="text/javascript" src="jquery-1.8.2.min.js"></script> -->
 
 
 
@@ -263,10 +285,18 @@
 				<h2 style="color:#ffffff; line-height:1.2em;">HOW IT WORKS</h2>
 				<h4>Brainstorm, Create, Share!</h4>
 			</div>
+
+
+		<div class="howitworks_slider">
+		  <div><img src="assets/OC-Illustration-SystemLight-01.svg"></div>
+		  <div><img src="assets/OC-Illustration-SystemLight-02.svg"></div>
+		  <div><img src="assets/OC-Illustration-SystemLight-03.svg"></div>
+		  <div><img src="assets/OC-Illustration-SystemLight-04.svg"></div>
+		</div>
 			
 
 			<!-- <img src="assets/OC-ezgif.com-video-to-gif_1.gif" class="process_illu"> -->
-			<div class="process_illu">
+			<!-- <div class="process_illu">
 				<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="595.279px" height="841.891px" viewBox="0 0 595.279 841.891" enable-background="new 0 0 595.279 841.891"
 	 xml:space="preserve">
@@ -1226,7 +1256,7 @@
 	</g>
 </g>
 </svg>
-			</div>	
+			</div> -->	
 		</div>
 
 	</div>
