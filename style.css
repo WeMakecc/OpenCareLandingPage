@@ -73,6 +73,14 @@ h3 {
 	margin:0;
 	text-decoration: none;
 }
+h4{
+	font-family: 'Open Sans';
+	color: #ffffff;
+	/*font-style: italic;*/
+	font-size: 28px;
+	font-weight: 100;
+	margin: 5px 0 0 0;
+}
 
 .title{
 	font-family: 'Montserrat';
