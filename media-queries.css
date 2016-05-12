@@ -200,12 +200,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#20201f', end
 		font-size: 3em;
 		margin-bottom: 20px;
 	}
-	h1 {
-		font-size: 1.7em;
-	}
-	#content_wrapper {
-		top: 930px;
-	}
+	
 }
 
 
@@ -258,6 +253,18 @@ h2 {
 
 .press_quote a img {
 	max-width: 100%;
+}
+
+
+h1 {
+	font-size: 1.7em;
+	line-height: 1.2em;
+}
+#content_wrapper {
+	top: 900px;
+}
+#what{
+	padding: 50px 0px 20px;
 }
 
 }
