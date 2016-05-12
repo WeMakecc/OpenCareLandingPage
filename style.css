@@ -235,6 +235,7 @@ h4{
    -webkit-justify-content: center;
    justify-content: center;
    flex-wrap: wrap;
+   -webkit-flex-wrap: wrap;
 }
 .button {
 	font-family: 'Open Sans';
@@ -359,6 +360,7 @@ border: none;
    -webkit-justify-content: center;
    justify-content: center;
    flex-wrap: wrap;
+   -webkit-flex-wrap: wrap;
 }
 
 #what .content_block {
@@ -522,6 +524,7 @@ border: none;
    -webkit-justify-content: center;
    justify-content: center;
    flex-wrap: wrap;
+   -webkit-flex-wrap: wrap;
 }
 
 #press_logo_container img {
