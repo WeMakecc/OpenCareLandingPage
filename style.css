@@ -161,6 +161,10 @@ h4{
 	margin:10px;
 }
 
+.content_block{
+	max-width: 900px;
+	margin: 0 auto;
+}
 
 
 /* TOP BAR */
@@ -464,13 +468,14 @@ border: none;
 	max-width: 600px;
 }*/
 .howitworks_slider {
-	margin-top: 40px;
+	margin: 40px auto 0;
 	max-width: 550px;
 	background: url(assets/OC-Illustration-SystemLight-bg.svg);
 	background-size: cover;
 }
 .howitworks_slider img {
 	max-width: 550px;
+
 }
 
 
@@ -591,13 +596,13 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#20201f', end
 #made {
 	/*background-color: #f8f8f8;*/
 	background: rgba(248,248,248,1);
-/*background: -moz-linear-gradient(top, rgba(248,248,248,1) 0%, rgba(246,246,246,1) 20%, rgba(255,255,255,1) 56%, rgba(255,255,255,1) 100%);
+background: -moz-linear-gradient(top, rgba(248,248,248,1) 0%, rgba(246,246,246,1) 20%, rgba(255,255,255,1) 56%, rgba(255,255,255,1) 100%);
 background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(248,248,248,1)), color-stop(20%, rgba(246,246,246,1)), color-stop(56%, rgba(255,255,255,1)), color-stop(100%, rgba(255,255,255,1)));
 background: -webkit-linear-gradient(top, rgba(248,248,248,1) 0%, rgba(246,246,246,1) 20%, rgba(255,255,255,1) 56%, rgba(255,255,255,1) 100%);
 background: -o-linear-gradient(top, rgba(248,248,248,1) 0%, rgba(246,246,246,1) 20%, rgba(255,255,255,1) 56%, rgba(255,255,255,1) 100%);
 background: -ms-linear-gradient(top, rgba(248,248,248,1) 0%, rgba(246,246,246,1) 20%, rgba(255,255,255,1) 56%, rgba(255,255,255,1) 100%);
 background: linear-gradient(to bottom, rgba(248,248,248,1) 0%, rgba(246,246,246,1) 20%, rgba(255,255,255,1) 56%, rgba(255,255,255,1) 100%);
-filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f8f8f8', endColorstr='#ffffff', GradientType=0 );*/
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f8f8f8', endColorstr='#ffffff', GradientType=0 );
 	z-index:5002;
 	/*border-top: 1px solid #2c2c2c;*/
 	color: #373636;
