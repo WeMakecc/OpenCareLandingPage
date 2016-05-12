@@ -237,8 +237,12 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#20201f', end
 	width: 320px;
 }
 
+/*#title_block {
+	width: 320px;
+}*/
 #title_block {
 	width: 320px;
+	top: 30px;
 }
 #right img {
 	max-width: 100%;
