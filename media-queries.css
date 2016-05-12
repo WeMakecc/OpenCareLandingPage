@@ -195,10 +195,25 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#20201f', end
 }
 
 
+@media screen and (max-width: 460px) {
+	.title{
+		font-size: 4em;
+	}
+	#content_wrapper {
+		top: 800px;
+	}
+}
+
+
+
 @media screen and (max-width: 320px) {
 
+/*#content_wrapper {
+	width:320px;
+}*/
 #content_wrapper {
 	width:320px;
+	top: 900px;
 }
 
 .content_block {
@@ -214,29 +229,6 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#20201f', end
 #left {
 	width: 320px;
 
-}
-.phone-holder {
-	/*
-width: 373px;
-	height: 699px;
-*/
-	width: 290px;
-	height: 599px;
-	background-size: cover;
-	margin: 0 auto;
-}
-/*
-.phone-holder img {
-	width: 20%:
-}
-*/
-.phone-contentA {
-	left: 22px;
-	  top: 83px;
-	  z-index: 500000;
-	  //max-width: 301px;
-	  width: 250px;
-	  height: auto;
 }
 
 #press {
@@ -254,17 +246,6 @@ h2 {
 	//display: none;
 }
 
-#howdo_player {
-	/*
-width: 70px;
-	height: 70px;
-*/
-	width: 270px;
-	height: 270px;
-	overflow: hidden;
-	margin-bottom: 100px;
-	//background-color:#000;
-}
 
 .content_text {
 	max-width: 320px;
@@ -273,38 +254,6 @@ width: 70px;
 
 .press_quote a img {
 	max-width: 100%;
-}
-
-
-#appstore {
-	padding-top: 60px;
-}
-.appstore_ribbon {
-	width: 230px;
-	overflow: hidden;
-}
-.appstore_ribbon img {
-	width: 230px;
-	margin-right: -5px;
-	
-}
-.appstore_iphone {
-	width: 120px;
-	margin-top: -30px;
-}
-.appstore_iphone img {
-	width: 120px;
-}
-
-.appstore_trigger {
-	margin: 0 0 0 30px;
-	float: left;
-	width: 130px;
-	height: auto;
-	//margin-top: 10px;
-}
-.appstore_trigger img {
-	width: 130px;
 }
 
 }
