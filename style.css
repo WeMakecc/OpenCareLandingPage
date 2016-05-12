@@ -527,7 +527,8 @@ border: none;
 
 
 #press_logo_container {
-	max-width: 790px;
+	/*max-width: 790px;*/
+	max-width: 900px;
 	width: 100%;
 	height: auto;
 	margin: 0 auto;
