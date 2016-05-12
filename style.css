@@ -503,7 +503,7 @@ border: none;
 	margin: 40px auto 0;
 	max-width: 550px;
 	background: url(assets/OC-Illustration-SystemLight-bg.svg);
-	background-size: cover;
+	background-size: contain;
 }
 .howitworks_slider img {
 	max-width: 550px;
