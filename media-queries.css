@@ -202,7 +202,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#20201f', end
 	}
 	.howitworks_slider{
 	max-width: 320px;
-	margin: 20px 0;
+	margin: 20px auto;
 }
 .howitworks_slider img{
 	max-width: 320px;
@@ -238,19 +238,16 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#20201f', end
 
 }
 
-#press {
+/*#press {
 	margin-top:-100px;
-}
+}*/
 
-#tubes {
+/*#tubes {
 	display:none;
-}
+}*/
 
 h2 {
 	font-size: 36px;
-}
-.header_sub {
-	//display: none;
 }
 
 
@@ -273,7 +270,7 @@ h1 {
 }
 	.howitworks_slider{
 	max-width: 290px;
-	margin: 20px 0;
+	margin: 20px auto;
 }
 .howitworks_slider img{
 	max-width: 290px;
