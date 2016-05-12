@@ -198,9 +198,13 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#20201f', end
 @media screen and (max-width: 460px) {
 	.title{
 		font-size: 3em;
+		margin-bottom: 20px;
+	}
+	h1 {
+		font-size: 1.7em;
 	}
 	#content_wrapper {
-		top: 900px;
+		top: 930px;
 	}
 }
 
