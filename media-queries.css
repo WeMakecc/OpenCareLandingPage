@@ -293,5 +293,16 @@ h1 {
 	width: 320px;
 }
 
+body {
+        background: linear-gradient( rgba(255,255,255, .8), rgba(255,255,255, .5), rgba(45,158,211, 0)), url('https://pixabay.com/get/e836b30820f5003ed1534705fb0938c9bd22ffd41db7124190f5c97ba3/treatment-1327811_1920.jpg');
+        background-position: center 100%; 
+        background-size: cover;
+        background-repeat: no-repeat;
+		background-attachment: fixed;
+    	margin: 0;
+  		padding: 0;
+  		width: 100%;
+      }
+
 }
 
