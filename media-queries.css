@@ -192,6 +192,13 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#20201f', end
 	#content_wrapper {
 		top: 700px;
 	}
+		.howitworks_slider{
+	max-width: 420px;
+	margin: 0px auto;
+}
+.howitworks_slider img{
+	max-width: 420px;
+}
 }
 
 
