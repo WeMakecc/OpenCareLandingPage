@@ -202,6 +202,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#20201f', end
 	}
 	.howitworks_slider{
 	max-width: 320px;
+	margin-top: 20px;
 }
 .howitworks_slider img{
 	max-width: 320px;
@@ -269,6 +270,13 @@ h1 {
 }
 #what{
 	padding: 50px 0px 20px;
+}
+	.howitworks_slider{
+	max-width: 300px;
+	margin-top: 20px;
+}
+.howitworks_slider img{
+	max-width: 300px;
 }
 
 }
