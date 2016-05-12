@@ -18,7 +18,7 @@ body {
         /*background: linear-gradient( rgba(255,255,255, .9), rgba(61,130,171, .2)), url('assets/OC-bg-copy.png');*/
         /*background: linear-gradient( rgba(255,255,255, 1), rgba(255,255,255, .8), rgba(61,130,171, 0)), url('https://c1.staticflickr.com/9/8234/8422550958_b9df7a557e_k.jpg');*/
         /*background: linear-gradient( rgba(255,255,255, 1), rgba(61,130,171, .5)), url('https://c2.staticflickr.com/8/7092/6896047350_b9a454b4ca_k.jpg'); */
-        background: linear-gradient( rgba(255,255,255, .95), rgba(255,255,255, .75), rgba(45,158,211, 0)), url('https://pixabay.com/get/e836b30820f5003ed1534705fb0938c9bd22ffd41db7124190f5c97ba3/treatment-1327811_1920.jpg');
+        background: linear-gradient( rgba(255,255,255, .95), rgba(255,255,255, .75), rgba(45,158,211, 0)), url('assets/OC-bg-NEW.jpg');
 
         background-position: center 100%; 
         background-size: cover;
