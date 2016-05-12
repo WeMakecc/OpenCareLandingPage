@@ -39,25 +39,28 @@
 	position: relative
 }
 
-
+/*
 .button {
 	margin:auto;
 	margin-top: 40px;
 	float: none;
-}
+}*/
 
 #title_block {
 	position:absolute;
 }
 
-#content_wrapper {
+/*#content_wrapper {
 	top: 1000px;
+}*/
+#content_wrapper {
+	top: 540px;
 }
 
-.button:hover {
+/*.button:hover {
 	margin-top: 40px;
 	box-shadow: 0px 4px #095b3e;
-}
+}*/
 
 #brain {
 	padding:10px;
@@ -70,16 +73,24 @@
 	text-align: center;
 }
 
+/*#what {
+	max-width: 100%;
+}*/
 #what {
 	max-width: 100%;
+	padding: 50px 10px 20px;
 }
 .content_block {
 }
 .content_text {
 	text-align: center;
 }
+/*.header {
+	text-align: center;
+}*/
 .header {
 	text-align: center;
+	margin: 0 20px;
 }
 .first {
 	padding-top: 0;
@@ -174,6 +185,14 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#20201f', end
 
 
 
+@media screen and (max-width: 640px) {
+	.title_container .main_title {
+		display: block;
+	}
+	#content_wrapper {
+		top: 700px;
+	}
+}
 
 
 @media screen and (max-width: 320px) {
