@@ -742,6 +742,54 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f8f8f8', end
 	color: #2DA9DE;
 }
 
+#page p, ul, li {
+  color: #606c71;
+}
+#page ul {
+  list-style-type: circle;
+}
+#page a{
+  color: #602480;
+}
+#page a:hover{
+  color: rgb(41,160,209);
+  cursor: pointer;
+}
+#page h1,h2,h3,h4{
+  color: rgb(41,160,209);
+  font-family: 'Open Sans';
+  font-weight: 300;
+  letter-spacing: 1px;
+  padding: 0;
+  margin: 0;
+}
+#page h1{
+  font-size: 2.7rem;
+  line-height: auto;
+}
+#page h2{
+  font-size: 2rem;
+  line-height: auto;
+}
+#page h3{
+  font-size: 1.7rem;
+  line-height: auto;
+}
+#page h4{
+  font-size: 1.2rem;
+  line-height: auto;
+}
+#page pre{
+  background-color: #f4f7fc;
+  padding: 1rem;
+}
+#page blockquote{
+  border-left: 1px solid #606c71;
+  padding-left: 1rem;
+  font-style: italic;
+}
+
+
 
 /* RETURN TO TOP */
 
