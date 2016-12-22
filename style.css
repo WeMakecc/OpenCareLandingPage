@@ -742,6 +742,18 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f8f8f8', end
 	color: #2DA9DE;
 }
 
+
+/* STATIC PAGE STUFF */
+#page {
+  background: #ffffff!important;
+}
+#page #content_wrapper{
+  position: relative;
+  top: 10rem;
+  max-width: 58rem;
+  margin: 0 auto;
+  margin-bottom: 13rem;
+}
 #page p, ul, li {
   color: #606c71;
 }
