@@ -746,6 +746,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f8f8f8', end
 /* STATIC PAGE STUFF */
 #page {
   background: #ffffff!important;
+  padding: 1rem;
 }
 #page #content_wrapper{
   position: relative;
