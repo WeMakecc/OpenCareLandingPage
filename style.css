@@ -746,7 +746,6 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f8f8f8', end
 /* STATIC PAGE STUFF */
 #page {
   background: #ffffff!important;
-  padding: 1rem;
 }
 #page #content_wrapper{
   position: relative;
@@ -754,6 +753,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f8f8f8', end
   max-width: 58rem;
   margin: 0 auto;
   margin-bottom: 13rem;
+  padding: 1rem;
 }
 #page p, ul, li {
   color: #606c71;
