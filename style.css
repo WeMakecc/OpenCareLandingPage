@@ -767,7 +767,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f8f8f8', end
   color: rgb(41,160,209);
   cursor: pointer;
 }
-#page h1,h2,h3,h4{
+#page h1, #page h2, #page h3, #page h4{
   color: rgb(41,160,209);
   font-family: 'Open Sans';
   font-weight: 300;
