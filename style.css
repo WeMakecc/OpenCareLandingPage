@@ -90,6 +90,14 @@ h4{
 	font-weight: 100;
 	margin: 5px 0 0 0;
 }
+h4 a, h4 a:hover, h4 a:active{
+	font-family: 'Open Sans';
+	color: rgb(41,160,209);
+	/*font-style: italic;*/
+	font-size: 28px;
+	font-weight: 100;
+	margin: 5px 0 0 0;
+}
 
 .title{
 	font-family: 'Montserrat';
