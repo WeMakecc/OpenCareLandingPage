@@ -1,6 +1,6 @@
-# Digital Social Innovation and the future of Care
+# opencare conference
 
-## Opencare Conference
+## Digital Social Innovation and the future of Care
 
 ![Digital Social Innovation and the Future of Care](assets/OC-finalconf.jpg)
 
