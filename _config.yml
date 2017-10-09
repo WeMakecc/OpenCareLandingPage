@@ -1,4 +1,4 @@
-name: MicroWebsite<br>Template
+name: opencare.cc
 author: WeMake
 markdown: kramdown
 baseurl: 
@@ -11,8 +11,8 @@ plugins:
 exclude: [README.md]
 github: [metadata]
 
-title: "MicroWebsiteTemplate by opencarecc"
-tagline: "This is the template for opencarecc websites"
+title: "opencare.cc"
+tagline: "OpenCare | Communities | Open Tech & Science | Health & Social Care"
 
 # multilingual stuff
 index:
