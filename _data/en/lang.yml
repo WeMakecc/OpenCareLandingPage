@@ -14,15 +14,13 @@ global:
 # ---------------------------------
 # dictionary keys for homeheader.html include file
 header:
-  title: "MicroWebsiteTemplate"
-  tagline: "This is the template for opencarecc websites"
+  title: "<img src='assets/OC-Logo-color-homeheader.svg'><span style='color:#2D9ED3;'>open</span><span>care</span>"
+  tagline: "A global community working together to make open, collaborative health and social care solutions"
   buttons:
-    - text: "View on GitHub"
-      link: "https://github.com/opencarecc/MicroWebsiteTemplate"
-    - text: "Download .zip"
-      link: "https://github.com/opencarecc/MicroWebsiteTemplate/zipball/master"
-    - text: "Build your own!"
-      link: "https://github.com/opencarecc/MicroWebsiteTemplate/wiki"
+    - text: "SHARE YOUR STORY"
+      link: "https://edgeryders.eu/c/opencare"
+    - text: "READ THE EU PROPOSAL"
+      link: "https://edgeryders.eu/t/opencare-proposal/4860"
 
 # dictionary keys for video.html include file
 video:

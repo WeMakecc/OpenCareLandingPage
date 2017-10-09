@@ -9,6 +9,7 @@ body {
   font-size: 16px;
   line-height: 1.5;
   color: #606c71;
+  -webkit-font-smoothing: antialiased;
 }
 
 a {
@@ -611,7 +612,9 @@ header {
 .page-header {
   color: #fff;
   text-align: center;
-  background: url(../assets/RePhone-8.jpg) no-repeat fixed center, linear-gradient(120deg, #2da9de, #602480);
+  /*background: url(../assets/OC-bg-NEW.jpg) no-repeat fixed center, linear-gradient(120deg, #2da9de, #602480);*/
+  /*background: linear-gradient(rgba(255,255,255, .95), rgba(255,255,255, .75), rgba(45,158,211, 0)), url(../assets/OC-bg-NEW.jpg) no-repeat fixed center;*/
+  background: linear-gradient(rgba(255,255,255, .9), rgba(255,255,255, .75), rgba(255,255,255, .4)), url(../assets/OC-bg-NEW.jpg) no-repeat fixed center;
   background-size: cover;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -619,20 +622,23 @@ header {
   height: 100%;
   width: 100%;
   overflow: hidden;
+  /*background: linear-gradient( rgba(255,255,255, .95), rgba(255,255,255, .75), rgba(45,158,211, 0));*/
 }
 .page-header-content {
   max-width: 58rem;
   margin: 0 auto;
-  padding: 2rem 10rem;
+  /*padding: 2rem 10rem;*/
+  padding: 2rem;
   text-shadow: 0px 0px 2rem rgba(255, 255, 255, 1);
-  background: rgba(255,255,255,0.8);
+  /*background: rgba(255,255,255,0.8);
   background: -moz-linear-gradient(left, rgba(255,255,255,0.2) 0%, rgba(255,255,255,0.95) 33%, rgba(246,246,246,0.95) 66%, rgba(255,255,255,0.2) 100%);
   background: -webkit-gradient(left top, right top, color-stop(0%, rgba(255,255,255,0.2)), color-stop(33%, rgba(255,255,255,0.95)), color-stop(66%, rgba(246,246,246,0.95)), color-stop(100%, rgba(255,255,255,0.2)));
   background: -webkit-linear-gradient(left, rgba(255,255,255,0.2) 0%, rgba(255,255,255,0.95) 33%, rgba(246,246,246,0.95) 66%, rgba(255,255,255,0.2) 100%);
   background: -o-linear-gradient(left, rgba(255,255,255,0.2) 0%, rgba(255,255,255,0.95) 33%, rgba(246,246,246,0.95) 66%, rgba(255,255,255,0.2) 100%);
   background: -ms-linear-gradient(left, rgba(255,255,255,0.2) 0%, rgba(255,255,255,0.95) 33%, rgba(246,246,246,0.95) 66%, rgba(255,255,255,0.2) 100%);
   background: linear-gradient(to right, rgba(255,255,255,0.2) 0%, rgba(255,255,255,0.95) 33%, rgba(246,246,246,0.95) 66%, rgba(255,255,255,0.2) 100%);
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#ffffff', GradientType=1 );
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#ffffff', GradientType=1 );*/
+  /*background: linear-gradient( rgba(255,255,255, .95), rgba(255,255,255, .75), rgba(45,158,211, 0));*/
 }
 
 /* HEADER BANNER media queries */
@@ -653,15 +659,17 @@ header {
   }
   .page-header-content {
     max-width: 100%;
-    padding: 2rem 6rem;
-    background: rgba(255,255,255,0.8);
+    /*padding: 2rem 6rem;*/
+    padding: 2rem 4rem;
+    /*background: rgba(255,255,255,0.8);
     background: -moz-linear-gradient(left, rgba(255,255,255,0.2) 0%, rgba(255,255,255,0.95) 33%, rgba(246,246,246,0.95) 66%, rgba(255,255,255,0.2) 100%);
     background: -webkit-gradient(left top, right top, color-stop(0%, rgba(255,255,255,0.2)), color-stop(33%, rgba(255,255,255,0.95)), color-stop(66%, rgba(246,246,246,0.95)), color-stop(100%, rgba(255,255,255,0.2)));
     background: -webkit-linear-gradient(left, rgba(255,255,255,0.2) 0%, rgba(255,255,255,0.95) 33%, rgba(246,246,246,0.95) 66%, rgba(255,255,255,0.2) 100%);
     background: -o-linear-gradient(left, rgba(255,255,255,0.2) 0%, rgba(255,255,255,0.95) 33%, rgba(246,246,246,0.95) 66%, rgba(255,255,255,0.2) 100%);
     background: -ms-linear-gradient(left, rgba(255,255,255,0.2) 0%, rgba(255,255,255,0.95) 33%, rgba(246,246,246,0.95) 66%, rgba(255,255,255,0.2) 100%);
     background: linear-gradient(to right, rgba(255,255,255,0.2) 0%, rgba(255,255,255,0.95) 33%, rgba(246,246,246,0.95) 66%, rgba(255,255,255,0.2) 100%);
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#ffffff', GradientType=1 );
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#ffffff', GradientType=1 );*/
+    /*background: linear-gradient( rgba(255,255,255, .95), rgba(255,255,255, .75), rgba(45,158,211, 0));*/
   }
 }
 
@@ -674,15 +682,17 @@ header {
   }
   .page-header-content {
     max-width: 100%;
-    padding: 2rem 4rem;
-    background: rgba(255,255,255,0.8);
+    /*padding: 2rem 4rem;*/
+    padding: 2rem;
+    /*background: rgba(255,255,255,0.8);
     background: -moz-linear-gradient(left, rgba(255,255,255,0.5) 0%, rgba(255,255,255,0.9) 25%, rgba(246,246,246,0.9) 75%, rgba(255,255,255,0.5) 100%);
     background: -webkit-gradient(left top, right top, color-stop(0%, rgba(255,255,255,0.5)), color-stop(25%, rgba(255,255,255,0.9)), color-stop(75%, rgba(246,246,246,0.9)), color-stop(100%, rgba(255,255,255,0.5)));
     background: -webkit-linear-gradient(left, rgba(255,255,255,0.5) 0%, rgba(255,255,255,0.9) 25%, rgba(246,246,246,0.9) 75%, rgba(255,255,255,0.5) 100%);
     background: -o-linear-gradient(left, rgba(255,255,255,0.5) 0%, rgba(255,255,255,0.9) 25%, rgba(246,246,246,0.9) 75%, rgba(255,255,255,0.5) 100%);
     background: -ms-linear-gradient(left, rgba(255,255,255,0.5) 0%, rgba(255,255,255,0.9) 25%, rgba(246,246,246,0.9) 75%, rgba(255,255,255,0.5) 100%);
     background: linear-gradient(to right, rgba(255,255,255,0.5) 0%, rgba(255,255,255,0.9) 25%, rgba(246,246,246,0.9) 75%, rgba(255,255,255,0.5) 100%);
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#ffffff', GradientType=1 );
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#ffffff', GradientType=1 );*/
+    /*background: linear-gradient( rgba(255,255,255, .95), rgba(255,255,255, .75), rgba(45,158,211, 0));*/
   }
 }
 
@@ -698,50 +708,76 @@ header {
 .project-name {
   margin-top: 0;
   margin-bottom: 0.1rem;
+  vertical-align: middle;
 }
+.project-name > img {
+    max-width:6rem; 
+    vertical-align:middle; 
+    margin-right:1.5rem;
+  }
 
 @media screen and (min-width: 64em) {
   .project-name {
-    font-size: 3.25rem;
+    /*font-size: 3.25rem;*/
+    font-size: 5.7rem;
+  }
+  .project-name > img {
+    max-width:6rem;
   }
 }
 
 @media screen and (min-width: 42em) and (max-width: 64em) {
   .project-name {
-    font-size: 2.25rem;
+    /*font-size: 2.25rem;*/
+    font-size: 4.7rem;
+  }
+  .project-name > img {
+    max-width:4rem;
   }
 }
 
 @media screen and (max-width: 42em) {
   .project-name {
-    font-size: 1.75rem;
+    /*font-size: 1.75rem;*/
+    font-size: 3rem;
+  }
+  .project-name > img {
+    max-width:3rem;
+    margin-right:.5rem;
   }
 }
 
 .project-tagline {
-  margin-bottom: 2rem;
+  /*margin-bottom: 2rem;*/
+  margin: 1rem 0 3rem;
   font-family: 'Open Sans';
-  font-size: 20px;
-  font-weight: 300;
-  line-height: 1.2em;
+  /*font-size: 20px;*/
+  font-size: 2.7rem;
+  font-weight: 100;
+  /*line-height: 1.2em;*/
+  line-height: 1.1em;
   color: rgb(41,160,209);
+  letter-spacing: 1px;
 }
 
 @media screen and (min-width: 64em) {
   .project-tagline {
-    font-size: 1.25rem;
+    /*font-size: 1.25rem;*/
+    font-size: 2.7rem;
   }
 }
 
 @media screen and (min-width: 42em) and (max-width: 64em) {
   .project-tagline {
-    font-size: 1.15rem;
+    /*font-size: 1.15rem;*/
+    font-size: 2.5rem;
   }
 }
 
 @media screen and (max-width: 42em) {
   .project-tagline {
-    font-size: 1rem;
+    /*font-size: 1rem;*/
+    font-size: 2.3rem;
   }
 }
 
