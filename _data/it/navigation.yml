@@ -1,16 +1,24 @@
+- title: CONFERENZA
+  url: /it/conferenza
+
+- title: OPENVILLAGE
+  url: http://festival.edgeryders.eu/
+
+- title: PLAYBOOK
+  url: http://playbook.opencare.cc/
+
 - title: ABOUT
   url: /it/about
-
-- title: PAGINE
-  url: /it/pages
   sublinks:
-    - title: PAGINA 1
-      url: /it/pagina1
-    - title: PAGINA 2
-      url: /it/pagina2
+    - title: DELIVERABLES
+      url: /it/deliverables
+    - title: PRIVACY E OPENCARE
+      url: /it/privacy
 
-- title: BLOG
-  url: /it/blog
-
-- title: OPENCARE.CC
-  url: http://opencare.cc
+- title: PROGETTI
+  url: /it/projects
+  sublinks:
+    - title: INPE'
+      url: http://inpe.opencare.cc/it/
+    - title: OPEN RAMPETTE
+      url: http://rampette.opencare.cc/
