@@ -24,26 +24,33 @@ header:
 
 # dictionary keys for video.html include file
 video:
-  title: "video english title"
-  description: "english description"
-  link: "about"
+  title: "MORE INFO"
+  description: ""
+  link: ""
 
 # dictionary keys for topics.html include file
 topics:
-  title: "Project themes"
+  title: ""
   topic_column:
-    - title: "Page 1"
+    - title: ""
       description: "topic 1 description"
       link: "page1"
       img_url: "assets/flyer.jpg"
-    - title: "Page 2"
+    - title: ""
+      description: "topic 2 description"
+      link: "page2"
+      img_url: "assets/flyer.jpg"
+    - title: ""
       description: "topic 2 description"
       link: "page2"
       img_url: "assets/flyer.jpg"
 
 # dictionary keys for slick_slider.html include file
 slick:
-  description: ""
+  title: "HOW IT WORKS"
+  description: "Opencare brings people together, in the virtual and physical world, to share stories and create new solutions rooted in people's everyday realities, needs, and lifestyles.
+                <br><br>
+                Brainstorm, Create, Share!"
 
 # dictionary keys for release_notes.html include file
 release_notes:
