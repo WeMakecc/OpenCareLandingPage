@@ -45,6 +45,23 @@ topics:
       link: "page2"
       img_url: "assets/flyer.jpg"
 
+# dictionary keys for partners.html include file
+partners:
+  title: "PARTNERS"
+  partner_item:
+    - link: "http://edgeryders.eu/company/home"
+      img_url: "assets/OC-Edgeryders.png"
+    - link: "https://www.comune.milano.it/wps/portal/ist/en"
+      img_url: "assets/OC-Milan.jpg"
+    - link: "http://www.scimpulse.org/"
+      img_url: "assets/OC-ScimPulse.png"
+    - link: "https://www.hhs.se/"
+      img_url: "assets/OC-Stockholm-School-Economics.jpg"
+    - link: "https://www.u-bordeaux.fr/"
+      img_url: "assets/OC-Universite-Bordeaux.png"
+    - link: "http://wemake.cc/"
+      img_url: "assets/OC-Wemake.png"
+
 # dictionary keys for slick_slider.html include file
 slick:
   title: "HOW IT WORKS"
