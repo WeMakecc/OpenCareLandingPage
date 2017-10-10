@@ -1395,6 +1395,23 @@ article h3 {
 /* === DISQUS === */
 .notecomments {
   margin: 4rem auto;
+  padding: 0 6rem;
+  max-width: 64rem;
+}
+@media screen and (min-width: 64em) {
+  .notecomments {
+    padding: 0 6rem;
+  }
+}
+@media screen and (min-width: 42em) and (max-width: 64em) {
+  .notecomments {
+    padding: 0 4rem;
+  }
+}
+@media screen and (max-width: 42em) {
+  .notecomments {
+    padding: 0 1rem;
+  }
 }
 
 
