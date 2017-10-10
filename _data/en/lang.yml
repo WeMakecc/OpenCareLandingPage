@@ -45,23 +45,6 @@ topics:
       link: "page2"
       img_url: "assets/flyer.jpg"
 
-# dictionary keys for partners.html include file
-partners:
-  title: "PARTNERS"
-  partner_item:
-    - link: "http://edgeryders.eu/company/home"
-      img_url: "assets/OC-Edgeryders.png"
-    - link: "https://www.comune.milano.it/wps/portal/ist/en"
-      img_url: "assets/OC-Milan.jpg"
-    - link: "http://www.scimpulse.org/"
-      img_url: "assets/OC-ScimPulse.png"
-    - link: "https://www.hhs.se/"
-      img_url: "assets/OC-Stockholm-School-Economics.jpg"
-    - link: "https://www.u-bordeaux.fr/"
-      img_url: "assets/OC-Universite-Bordeaux.png"
-    - link: "http://wemake.cc/"
-      img_url: "assets/OC-Wemake.png"
-
 # dictionary keys for slick_slider.html include file
 slick:
   title: "HOW IT WORKS"
@@ -131,6 +114,25 @@ contribute:
     - text: "Read more"
       link: "about"
 
+# --------------------------------
+# --- PARTNERS dictionary keys ---
+# --------------------------------
+# dictionary keys for partners.html include file
+partners:
+  title: "PARTNERS"
+  partner_item:
+    - link: "http://edgeryders.eu/company/home"
+      img_url: "assets/OC-Edgeryders.png"
+    - link: "https://www.comune.milano.it/wps/portal/ist/en"
+      img_url: "assets/OC-Milan.jpg"
+    - link: "http://www.scimpulse.org/"
+      img_url: "assets/OC-ScimPulse.png"
+    - link: "https://www.hhs.se/"
+      img_url: "assets/OC-Stockholm-School-Economics.jpg"
+    - link: "https://www.u-bordeaux.fr/"
+      img_url: "assets/OC-Universite-Bordeaux.png"
+    - link: "http://wemake.cc/"
+      img_url: "assets/OC-Wemake.png"
 
 # ------------------------------
 # --- FOOTER dictionary keys --- 
@@ -139,6 +141,23 @@ contribute:
 footer:
   credits_line_html: "is maintained by <a href='https://opencare.cc'>opencarecc</a>"
   eu_agreement_line: "This project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No 688670"
+
+# -------------------------------
+# --- SOCIALS dictionary keys ---
+# -------------------------------
+# dictionary keys for socials.html include file
+socials:
+  social_item:
+    - link: "https://twitter.com/op3ncare"
+      icon_name: "fa-twitter"
+    - link: "https://www.facebook.com/op3ncare/"
+      icon_name: "fa-facebook-official"
+    - link: "https://plus.google.com/u/0/100757605816209275530/about"
+      icon_name: "fa-google-plus"
+    - link: "https://www.youtube.com/channel/UCf1-MIAJ9y80qotp6fMnuSA"
+      icon_name: "fa-youtube"
+    - link: "https://github.com/opencarecc"
+      icon_name: "fa-github"
 
 
 # --------------------------------

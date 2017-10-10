@@ -1211,14 +1211,31 @@ a:last-of-type.btn:hover {
 
 
 /* === FOOTER === */
+.footer-container {
+  background: rgba(248,248,248,1);
+  background: -moz-linear-gradient(top, rgba(248,248,248,1) 0%, rgba(246,246,246,1) 20%, rgba(255,255,255,1) 56%, rgba(255,255,255,1) 100%);
+  background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(248,248,248,1)), color-stop(20%, rgba(246,246,246,1)), color-stop(56%, rgba(255,255,255,1)), color-stop(100%, rgba(255,255,255,1)));
+  background: -webkit-linear-gradient(top, rgba(248,248,248,1) 0%, rgba(246,246,246,1) 20%, rgba(255,255,255,1) 56%, rgba(255,255,255,1) 100%);
+  background: -o-linear-gradient(top, rgba(248,248,248,1) 0%, rgba(246,246,246,1) 20%, rgba(255,255,255,1) 56%, rgba(255,255,255,1) 100%);
+  background: -ms-linear-gradient(top, rgba(248,248,248,1) 0%, rgba(246,246,246,1) 20%, rgba(255,255,255,1) 56%, rgba(255,255,255,1) 100%);
+  background: linear-gradient(to bottom, rgba(248,248,248,1) 0%, rgba(246,246,246,1) 20%, rgba(255,255,255,1) 56%, rgba(255,255,255,1) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f8f8f8', endColorstr='#ffffff', GradientType=0 );
+  /*position: absolute;
+  bottom: 0;
+  margin-bottom: 5rem;
+  width: 100%;*/
+}
 footer {
   display: -webkit-flex;
   display: flex;
-  -webkit-flex-direction: row;
-  flex-direction: row;
-  padding-top: 2rem;
-  margin-top: 2rem;
-  border-top: solid 1px #eff0f1;
+  /*-webkit-flex-direction: row;
+  flex-direction: row;*/
+  -webkit-flex-direction: column;
+  flex-direction: column;
+  text-align: center;
+  /*padding-top: 2rem;
+  margin-top: 2rem;*/
+  /*border-top: solid 1px #eff0f1;*/
 }
 footer.column {
   -webkit-flex-direction: column;
@@ -1232,15 +1249,20 @@ footer.column {
 
 .credits {
   color: #819198;
-  font-size: .8rem;
+  /*font-size: .8rem;*/
+  font-weight: 100;
 }
 
 footer img {
   /*float: right;*/
   margin: 0 auto!important;
-  width: 100%!important;
+  /*width: 100%!important;
   height: auto!important;
-  max-width: 80%!important;
+  max-width: 80%!important;*/
+  max-width: 16rem!important;
+}
+footer p {
+  flex-basis: auto!important;
 }
 
 /* FOOTER media queries */
@@ -1256,9 +1278,10 @@ footer img {
     flex-direction: column;
     font-size: 1rem;
     text-align: center;
+    padding-bottom: 1rem;
   }
   footer img {
-    max-width: 50%!important;
+    /*max-width: 50%!important;*/
   }
   
 }
@@ -1269,9 +1292,80 @@ footer img {
     flex-direction: column;
     font-size: 0.9rem;
     text-align: center;
+    padding-bottom: 1rem;
   }
   footer img {
-    max-width: 280px!important;
+    /*max-width: 280px!important;*/
+  }
+}
+
+
+
+/* === SOCIALS === */
+.socials {
+  background-color: #3C3C3B;
+  /*display: -webkit-flex;
+  display: flex;
+  -webkit-flex-direction: row;
+  flex-direction: row;
+  -webkit-align-items: center;
+  align-items: center;
+  -webkit-justify-content: center;
+  justify-content: center;*/
+  /*padding: 15px 0;*/
+  /*position: absolute;
+  bottom: 0;
+  width: 100%;*/
+}
+.socials .row {
+  -webkit-align-items: center;
+  align-items: center;
+  -webkit-justify-content: center;
+  justify-content: center;
+}
+.socials .fa {
+  color: #ffffff;
+  font-size: 2em;
+  margin: 0 8px;
+}
+.socials a:hover {
+  border: none;
+  text-decoration: none;
+}
+.socials a:hover .fa,
+.socials a:active .fa {
+  color: #2DA9DE;
+}
+@media screen and (min-width: 64em) {
+  .socials .row {
+    -webkit-flex-direction: row;
+    flex-direction: row;
+    -webkit-align-items: center;
+    align-items: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+  }
+}
+@media screen and (min-width: 42em) and (max-width: 64em) {
+  .socials .row {
+    -webkit-flex-direction: row;
+    flex-direction: row;
+    -webkit-align-items: center;
+    align-items: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+    padding-bottom: 1rem;
+  }
+}
+@media screen and (max-width: 42em) {
+  .socials .row {
+    -webkit-flex-direction: row;
+    flex-direction: row;
+    -webkit-align-items: center;
+    align-items: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+    padding-bottom: 1rem;
   }
 }
 
