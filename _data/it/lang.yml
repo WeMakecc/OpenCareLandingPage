@@ -14,38 +14,43 @@ global:
 # ---------------------------------
 # dictionary keys for homeheader.html include file
 header:
-  title: "MicroWebsiteTemplate"
-  tagline: "Questo è il template per i siti di opencarecc"
+  title: "<img src='../assets/OC-Logo-color-homeheader.svg'><span style='color:#2D9ED3;'>open</span><span>care</span>"
+  tagline: "Una comunità internazionale che collabora alla ricerca e sviluppo di soluzioni open nell'ambito della cura e della salute"
   buttons:
-    - text: "Vedi su GitHub"
-      link: "https://github.com/opencarecc/MicroWebsiteTemplate"
-    - text: "Scarica .zip"
-      link: "https://github.com/opencarecc/MicroWebsiteTemplate/zipball/master"
-    - text: "Costruisci!"
-      link: "https://github.com/opencarecc/MicroWebsiteTemplate/wiki"
+    - text: "CONDIVIDI LA TUA STORIA"
+      link: "https://edgeryders.eu/c/opencare"
+    - text: "LEGGI LA PROPOSTA ALLA EU"
+      link: "https://edgeryders.eu/t/opencare-proposal/4860"
 
 # dictionary keys for video.html include file
 video:
-  title: "Cos'è open rampette?"
-  description: "open rampette è un’iniziativa pilota per il miglioramento dell’accessibilità degli esercizi commerciali ed è promossa dal Comune di Milano e da WeMake | fablab e makerspace all’interno del progetto <a href='http://opencare.cc' target='_blank'>opencare</a>."
-  link: "about"
+  title: "SCOPRI DI PIU'"
+  description: ""
+  link: ""
 
 # dictionary keys for topics.html include file
 topics:
-  title: "I temi trattati"
+  title: ""
   topic_column:
-    - title: "Pagina 1"
+    - title: ""
       description: "questa è la descrizione del tema 1"
       link: "it/pagina1"
       img_url: "assets/flyer.jpg"
-    - title: "Pagina 2"
+    - title: ""
       description: "questa è la descrizione del tema 2"
+      link: "it/pagina2"
+      img_url: "assets/flyer.jpg"
+    - title: ""
+      description: "questa è la descrizione del tema 3"
       link: "it/pagina2"
       img_url: "assets/flyer.jpg"
 
 # dictionary keys for slick_slider.html include file
 slick:
-  description: ""
+  title: "COME FUNZIONA"
+  description: "Opencare fa incontrare persone nel mondo reale e virtuale, per condividere esperienze e cercare insieme soluzioni a partire dalla quotidianità, dai bisogni di tutti e dai differenti stili di vita.
+                <br><br>
+                Brainstorm, Create, Share!"
   # pics:
   #   - pic: 'https://farm5.staticflickr.com/4211/34767438573_c6c73445d7_z_d.jpg'
   #   - pic: 'https://farm5.staticflickr.com/4217/35189199200_654c462308_z_d.jpg'
@@ -115,13 +120,52 @@ contribute:
       link: "about"
 
 
+# --------------------------------
+# --- PARTNERS dictionary keys ---
+# --------------------------------
+# dictionary keys for partners.html include file
+partners:
+  title: "PARTNERS"
+  partner_item:
+    - link: "http://edgeryders.eu/company/home"
+      img_url: "assets/OC-Edgeryders.png"
+    - link: "https://www.comune.milano.it/wps/portal/ist/en"
+      img_url: "assets/OC-Milan.jpg"
+    - link: "http://www.scimpulse.org/"
+      img_url: "assets/OC-ScimPulse.png"
+    - link: "https://www.hhs.se/"
+      img_url: "assets/OC-Stockholm-School-Economics.jpg"
+    - link: "https://www.u-bordeaux.fr/"
+      img_url: "assets/OC-Universite-Bordeaux.png"
+    - link: "http://wemake.cc/"
+      img_url: "assets/OC-Wemake.png"
+
+
 # ------------------------------
 # --- FOOTER dictionary keys --- 
 # ------------------------------
 # dictionary keys for footer.html include file
 footer:
   credits_line_html: "è curato da <a href='https://opencare.cc'>opencarecc</a>"
-  eu_agreement_line: "This project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No 688670"
+  eu_agreement_line: "Questo progetto ha ricevuto fondi dal programma di ricerca e innovazione dell'Unione Europea Horizon2020, accordo No 688670"
+
+
+# -------------------------------
+# --- SOCIALS dictionary keys ---
+# -------------------------------
+# dictionary keys for socials.html include file
+socials:
+  social_item:
+    - link: "https://twitter.com/op3ncare"
+      icon_name: "fa-twitter"
+    - link: "https://www.facebook.com/op3ncare/"
+      icon_name: "fa-facebook-official"
+    - link: "https://plus.google.com/u/0/100757605816209275530/about"
+      icon_name: "fa-google-plus"
+    - link: "https://www.youtube.com/channel/UCf1-MIAJ9y80qotp6fMnuSA"
+      icon_name: "fa-youtube"
+    - link: "https://github.com/opencarecc"
+      icon_name: "fa-github"
 
 
 # --------------------------------
