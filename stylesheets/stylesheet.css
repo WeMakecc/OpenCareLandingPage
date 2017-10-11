@@ -871,7 +871,8 @@ a:last-of-type.btn:hover {
   /*margin-top: 2rem;*/
   margin-bottom: 1rem;
   font-weight: 300;
-  color: #159957; }
+  color: #159957;
+  display: block; }
 .main-content h1:first-letter,
 .main-content h2:first-letter,
 .main-content h3:first-letter,
