@@ -1,0 +1,22 @@
+name: opencare.cc
+author: WeMake
+markdown: kramdown
+baseurl: 
+permalink: blog/:year/:month/:day/:title/
+plugins:
+  - jekyll-sitemap
+  # - jekyll-paginate
+# paginate: 10
+# paginate_path: /blog/page:num/
+exclude: [README.md]
+github: [metadata]
+
+title: "opencare.cc"
+tagline: "OpenCare | Communities | Open Tech & Science | Health & Social Care"
+
+# multilingual stuff
+index:
+  en:
+  it: it/index.html
+
+default_lang: "en"
