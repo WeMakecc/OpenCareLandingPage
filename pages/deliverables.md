@@ -1,20 +1,6 @@
 ---
 layout: page
 title: Opencare deliverables
-<!-- subtitle: ""
-shortTex: ""
-buttons:
-  - text: 
-    link: 
-release: 
-features:
-  - ""
-  - ""
-  - ""
-github_release_link: 
-gallery:
-  - ""
-newsCategory:  -->
 published: true
 lang: en
 ref: deliverables
