@@ -1050,6 +1050,9 @@ a:last-of-type.btn:hover {
   max-width: 35rem;
   margin: 0 auto;
 }
+.column.topics {
+  text-align: center;
+ }
 
 /* MAIN CONTENT FLEX GRID media queries */
 /*@media screen and (max-width: 42em) {*/
