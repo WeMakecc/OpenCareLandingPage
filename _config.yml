@@ -1,0 +1,38 @@
+name: opencare.cc
+author: WeMake
+markdown: kramdown
+baseurl:
+permalink: blog/:year/:month/:day/:title/
+plugins:
+  - jekyll-sitemap
+  # - jekyll-paginate
+# paginate: 10
+# paginate_path: /blog/page:num/
+exclude: [README.md]
+github: [metadata]
+
+title: "opencare.cc"
+tagline: "opencarecc | Communities | Open Tech & Science | Health & Social Care"
+
+# multilingual stuff
+index:
+  en:
+  it: it/index.html
+
+default_lang: "en"
+
+# Facebook OpenGraph stuff
+opengraph:
+  title: "opencare.cc"
+  url: "http://opencare.cc"
+  description: "opencarecc | Communities | Open Tech & Science | Health & Social Care"
+  image_url: "http://opencarecc.github.io/opencareLandingPage/assets/OC-Logo-socials.png"
+
+# Twitter Card stuff
+twitter:
+  site: "opencare.cc"
+  title: "opencare.cc"
+  description: "opencarecc | Communities | Open Tech & Science | Health & Social Care"
+  creator: "opencarecc"
+  domain: "http://opencare.cc"
+  image_url: "http://opencarecc.github.io/opencareLandingPage/assets/OC-Logo-socials.png"
