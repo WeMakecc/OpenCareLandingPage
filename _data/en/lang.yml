@@ -2,7 +2,7 @@
 
 
 # ------------------------------
-# --- GLOBAL dictionary keys --- 
+# --- GLOBAL dictionary keys ---
 # ------------------------------
 global:
   read_more: "Read more"
@@ -10,12 +10,12 @@ global:
 
 
 # ---------------------------------
-# --- HOME page dictionary keys --- 
+# --- HOME page dictionary keys ---
 # ---------------------------------
 # dictionary keys for homeheader.html include file
 header:
   title: "<img src='assets/OC-Logo-color-homeheader.svg'><span style='color:#2D9ED3;'>open</span><span>care</span>"
-  tagline: "A global community working together to make open, collaborative health and social care solutions"
+  tagline: "A community working to make open and collaborative health and care solutions"
   buttons:
     - text: "SHARE YOUR STORY"
       link: "https://edgeryders.eu/c/opencare"
@@ -136,7 +136,7 @@ partners:
       img_url: "assets/OC-Wemake.png"
 
 # ------------------------------
-# --- FOOTER dictionary keys --- 
+# --- FOOTER dictionary keys ---
 # ------------------------------
 # dictionary keys for footer.html include file
 footer:
@@ -162,7 +162,7 @@ socials:
 
 
 # --------------------------------
-# --- CATEGORY dictionary keys --- 
+# --- CATEGORY dictionary keys ---
 # --------------------------------
 # dictionary keys for category.html & post.html layout files
 category:
@@ -172,7 +172,7 @@ category:
 
 
 # ----------------------------
-# --- BLOG dictionary keys --- 
+# --- BLOG dictionary keys ---
 # ----------------------------
 # dictionary keys for blog/index.html file
 # pagination:
@@ -180,5 +180,3 @@ category:
 #   previous: "Previous"
 #   page_1: "Page"
 #   page_2: "of"
-
-  
