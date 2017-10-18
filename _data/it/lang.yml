@@ -128,7 +128,7 @@ contribute:
 partners:
   title: "PARTNERS"
   partner_item:
-    - link: "http://edgeryders.eu/company/home"
+    - link: "http://edgeryders.eu/"
       img_url: "assets/OC-Edgeryders.png"
     - link: "https://www.comune.milano.it/wps/portal/ist/en"
       img_url: "assets/OC-Milan.jpg"
