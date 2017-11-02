@@ -9,7 +9,7 @@ permalink: conference/
 
 # Digital Social Innovation and the future of Care
 
-![Digital Social Innovation and the Future of Care]({{site.baseurl}}/assets/OC-finalconf.jpg)
+![Digital Social Innovation and the Future of Care]({{site.baseurl}}/assets/OC-finalconf04.jpg)
 
 ## opencare conference
 
