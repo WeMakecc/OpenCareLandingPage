@@ -19,7 +19,7 @@ We are happy to invite you to join our **opencare** final Conference taking plac
 
 We’ll discuss what are the new models for community care and how are they gaining ground thanks to digital technologies? What urban or organizational conditions can facilitate the spread of open and collaborative care systems? What is the role of new digital manufacturing players in processes of social innovation and care?
 
-The conclusion of the European project OpenCare is a real chance to tackle these themes with both local and global communities, with researchers, key international experts and policy makers.
+The conclusion of the European project **opencare** is a real chance to tackle these themes with both local and global communities, with researchers, key international experts and policy makers.
 
 [Book your seat](https://www.eventbrite.it/e/biglietti-conferenza-finale-del-progetto-eu-opencare-38492812037?aff=efbevent&mc_cid=e1bdf7877e&mc_eid=73a6661c4d)
 
@@ -27,7 +27,7 @@ The conclusion of the European project OpenCare is a real chance to tackle these
 
 [22nd November **Digital Social Innovation and the Cities**](#22nov)
 
-[23nd November **New Urban Economies and Care**](#23nov)
+[23rd November **New Urban Economies and Care**](#23nov)
 
 [22nd and 23rd November **Exhibitions**](#exhibitions)
 
@@ -36,7 +36,7 @@ The conclusion of the European project OpenCare is a real chance to tackle these
 # Program
 
 ## <a name="22nov"></a> 22nd November | **Digital Social Innovation and the Cities**
- - (the conference will be held in english)
+ - (the conference will be held in English)
 
 ### 14:00 – 14:30 | **Registration e Welcome coffee**
 
@@ -84,6 +84,14 @@ Are Cities “Innovation Machines”? And how can City Administrations foster in
   - **Carolina Pacchi**  Polytechnic of Milan  / Civic crowdfunding and citizen-led micro-regeneration in Milan and in European cities
   - **Cosimo Palazzo** City of Milan / WeMi as a digital/physical platform to reconnect care solutions with societal need
 
+###	17:45 – 18:00	|	Final remarks
+- Zoe Romano, WeMake
+
+###	18:00 – 19:00	|	Call for solutions Open Innovation for Community Care
+Selected projects presentation
+
+### 19:00 Happy Hour
+
 ---
 
 ## <a name="23nov"></a> 23rd November | **New Urban Economies and Care**
@@ -108,7 +116,7 @@ Are Cities “Innovation Machines”? And how can City Administrations foster in
 
 - **Cristina Tajani** City of Milan
 
-### 10:30 - 11:00	|	From care services to care as an open system: Opencare’s perspective
+### 10:30 - 11:00	|	From care services to care as an open system: **opencare**’s perspective
 
 - **Rossana Torri** City of Milan
 - **Costantino Bongiorno** WeMake
@@ -129,10 +137,10 @@ Collaborative economics and new technologies are today contributing to radical i
 
 ###	13:00 - 14:00	|	Light Lunch
 
-###	14:00 - 14:15	|	an introduction to the exhibitions
+###	14:00 - 14:15	|	An introduction to the exhibitions
 
 - **Fabrizio Marta** Rotellando, **Liat Rogel** Naba
-- xxx airc
+- **Claudio Mustacchi** presidente Associazione Italiana Corea di Huntington
 
 ###	14:15 - 16:00	|	Rethinking care systems
 
