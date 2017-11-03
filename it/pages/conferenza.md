@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Conferenza finale
+title: conferenza
 published: true
 lang: it
 ref: conference
@@ -12,6 +12,8 @@ DA TRADURRE
 # Digital Social Innovation and the future of Care
 
 ![Digital Social Innovation and the Future of Care]({{site.baseurl}}/assets/OC-finalconf.jpg)
+
+[read it in english]({{site.baseurl}}/conference)
 
 ## opencare conference
 
