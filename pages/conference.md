@@ -85,7 +85,8 @@ Are Cities “Innovation Machines”? And how can City Administrations foster in
   - **Cosimo Palazzo** City of Milan / WeMi as a digital/physical platform to reconnect care solutions with societal need
 
 ###	17:45 – 18:00	|	Final remarks
-- Zoe Romano, WeMake
+
+- **Zoe Romano** WeMake
 
 ###	18:00 – 19:00	|	Call for solutions Open Innovation for Community Care
 Selected projects presentation
@@ -149,10 +150,10 @@ Rethinking care systems for people and with people, with the help of digital fab
 - contribution introduced and moderated by **Alessia Maccaferri** IlSole24Ore - Nova:
 
   - **Costantino Bongiorno** WeMake & Lisa Noja City of Milan  Open Rampette
-  - **Enrico Bassi** Open Dot - L’oggetto che non c’è
   - **Gehan McCloud** GalGael Trust - GalGael
   - **Carlos Arturo Torres** - Lego prosthetic for children
   - **Francesca Fedeli** Fight the stroke - Call for brain
+  - **Enrico Bassi** Open Dot - L’oggetto che non c’è
   - **Antonella Bertolotti** Fondazione Cariplo - Codesign for Rehabilitation and Wellbeing - CReW
 
 ###	16:00 - 16:15	|	Final remarks
