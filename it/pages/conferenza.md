@@ -87,7 +87,8 @@ Are Cities “Innovation Machines”? And how can City Administrations foster in
   - **Cosimo Palazzo** City of Milan / WeMi as a digital/physical platform to reconnect care solutions with societal need
 
 ###	17:45 – 18:00	|	Final remarks
-- Zoe Romano, WeMake
+
+- **Zoe Romano** WeMake
 
 ###	18:00 – 19:00	|	Call for solutions Open Innovation for Community Care
 Selected projects presentation
