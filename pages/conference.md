@@ -13,8 +13,6 @@ permalink: conference/
 
 [vai alla pagina in italiano]({{site.baseurl}}/it/conferenza)
 
-## **opencare** conference
-
 We are happy to invite you to join our **opencare** conference taking place in Milan on **22nd and 23rd of November**.
 
 We’ll discuss what are the new models for community care and how are they gaining ground thanks to digital technologies? What urban or organizational conditions can facilitate the spread of open and collaborative care systems? What is the role of new digital manufacturing players in processes of social innovation and care?
@@ -84,23 +82,23 @@ Are Cities “Innovation Machines”? And how can City Administrations foster in
   - **Carolina Pacchi**  Polytechnic of Milan  / Civic crowdfunding and citizen-led micro-regeneration in Milan and in European cities
   - **Cosimo Palazzo** City of Milan / WeMi as a digital/physical platform to reconnect care solutions with societal need
 
-###	17:45 – 18:00	|	Final remarks
+###	17:45 – 18:00	|	**Final remarks**
 
 - **Zoe Romano** WeMake
 
-###	18:00 – 19:00	|	Call for solutions Open Innovation for Community Care
+###	18:00 – 19:00	|	**Call for solutions Open Innovation for Community Care**
 Selected projects presentation
 
-### 19:00 Happy Hour
+### 19:00 | **Happy Hour**
 
 ---
 
 ## <a name="23nov"></a> 23rd November | **New Urban Economies and Care**
    - the conference will be held in italian and english with simultaneous interpreting
 
-###	9:00 - 9.30 | Welcome coffee
+###	9:00 - 9.30 | **Welcome coffee**
 
-###	9:30 - 10:30 | New Urban Economies and Digital Manufacturing: City of Milan’s vision
+###	9:30 - 10:30 | **New Urban Economies and Digital Manufacturing: City of Milan’s vision**
 
 - Keynote speaker:
 
@@ -117,17 +115,17 @@ Selected projects presentation
 
 - **Cristina Tajani** City of Milan
 
-###	10:30 - 10:45	|	Make to care
+###	10:30 - 10:45	|	**Make to care**
 - **Stefano Maffei** Politecnico di Milano
 
-### 10:45 - 11:15	|	From care services to care as an open system: **opencare**’s perspective
+### 10:45 - 11:15	|	**From care services to care as an open system: **opencare**’s perspective**
 
 - **Rossana Torri** City of Milan
 - **Costantino Bongiorno** WeMake
 
-###	11:15 - 11:30 |	Coffee break
+###	11:15 - 11:30 |	**Coffee break**
 
-###	11:30 - 13:00 |	Economies of care and innovation
+###	11:30 - 13:00 |	**Economies of care and innovation**
 
 - contribution introduced and moderated by **Francesco Samorè** Fondazione G. Bassetti - SMART-map project:
 
@@ -139,14 +137,14 @@ Selected projects presentation
 
 Collaborative economics and new technologies are today contributing to radical innovation in care solutions for citizens, personalizing them by re-establishing the centrality of those needs not met by traditional welfare systems, but under what conditions? What are the economic impacts of innovation on the care world? Is the active use of models based on co-design and customization sustainable? And how can the public actor rethink its role within "open" care systems?
 
-###	13:00 - 13:15	|	An introduction to the exhibitions
+###	13:00 - 13:15	|	**An introduction to the exhibitions**
 
 - **Fabrizio Marta** Rotellando, **Liat Rogel** Naba
 - **Claudio Mustacchi** presidente Associazione Italiana Corea di Huntington
 
-###	13:15- 14:30	|	Light Lunch
+###	13:15- 14:30	|	**Light Lunch**
 
-###	14:30 - 16:15	|	Rethinking care systems
+###	14:30 - 16:15	|	**Rethinking care systems**
 
 Rethinking care systems for people and with people, with the help of digital fabrication, co-design and innovation in production processes.
 
@@ -159,11 +157,11 @@ Rethinking care systems for people and with people, with the help of digital fab
   - **Enrico Bassi** Open Dot - L’oggetto che non c’è
   - **Antonella Bertolotti** Fondazione Cariplo - Codesign for Rehabilitation and Wellbeing - CReW
 
-###	16:15 - 16:30	|	Final remarks
+###	16:15 - 16:30	|	**Final remarks**
 
  - **Marianna D’Ovidio** Università degli Studi di Bari
 
-###	16:30 - 17:30  |	Call for Solutions
+###	16:30 - 17:30  |	**Call for Solutions**
 - 3 Minutes-Pitch and Projects Awards
 
 ---
