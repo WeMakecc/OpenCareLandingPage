@@ -13,7 +13,7 @@ permalink: conference/
 
 [vai alla pagina in italiano]({{site.baseurl}}/it/conferenza)
 
-## opencare conference
+## **opencare** conference
 
 We are happy to invite you to join our **opencare** conference taking place in Milan on **22nd and 23rd of November**.
 
@@ -117,12 +117,15 @@ Selected projects presentation
 
 - **Cristina Tajani** City of Milan
 
-### 10:30 - 11:00	|	From care services to care as an open system: **opencare**’s perspective
+###	10:30 - 10:45	|	Make to care
+- **Stefano Maffei** Politecnico di Milano
+
+### 10:45 - 11:15	|	From care services to care as an open system: **opencare**’s perspective
 
 - **Rossana Torri** City of Milan
 - **Costantino Bongiorno** WeMake
 
-###	11:00 - 11:30 	|	Coffee break
+###	11:15 - 11:30 |	Coffee break
 
 ###	11:30 - 13:00 |	Economies of care and innovation
 
@@ -136,14 +139,14 @@ Selected projects presentation
 
 Collaborative economics and new technologies are today contributing to radical innovation in care solutions for citizens, personalizing them by re-establishing the centrality of those needs not met by traditional welfare systems, but under what conditions? What are the economic impacts of innovation on the care world? Is the active use of models based on co-design and customization sustainable? And how can the public actor rethink its role within "open" care systems?
 
-###	13:00 - 14:00	|	Light Lunch
-
-###	14:00 - 14:15	|	An introduction to the exhibitions
+###	13:00 - 13:15	|	An introduction to the exhibitions
 
 - **Fabrizio Marta** Rotellando, **Liat Rogel** Naba
 - **Claudio Mustacchi** presidente Associazione Italiana Corea di Huntington
 
-###	14:15 - 16:00	|	Rethinking care systems
+###	13:15- 14:30	|	Light Lunch
+
+###	14:30 - 16:15	|	Rethinking care systems
 
 Rethinking care systems for people and with people, with the help of digital fabrication, co-design and innovation in production processes.
 
@@ -156,11 +159,11 @@ Rethinking care systems for people and with people, with the help of digital fab
   - **Enrico Bassi** Open Dot - L’oggetto che non c’è
   - **Antonella Bertolotti** Fondazione Cariplo - Codesign for Rehabilitation and Wellbeing - CReW
 
-###	16:00 - 16:15	|	Final remarks
+###	16:15 - 16:30	|	Final remarks
 
  - **Marianna D’Ovidio** Università degli Studi di Bari
 
-###	16:15 - 17:00 |	Call for Solutions
+###	16:30 - 17:30  |	Call for Solutions
 - 3 Minutes-Pitch and Projects Awards
 
 ---
