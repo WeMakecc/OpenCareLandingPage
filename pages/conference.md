@@ -115,7 +115,7 @@ Selected projects presentation
 
 - **Cristina Tajani** City of Milan
 
-###	10:30 - 10:45	|	**Make to care**
+###	10:30 - 10:45	|	**Make to Care: an emerging innovation ecosystem**
 - **Stefano Maffei** Politecnico di Milano
 
 ### 10:45 - 11:15	|	**From care services to care as an open system: **opencare**’s perspective**
