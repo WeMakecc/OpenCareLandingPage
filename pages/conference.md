@@ -47,7 +47,7 @@ The conclusion of the European project **opencare** is a real chance to tackle t
 
 ### 15:00 - 15:15 | **Digital Social Innovation and Citizen Engagement**
 
-Next Generation Internet (NGI) - To what extent is it possible to create awareness of  problems of sustainability and put collective solutions in place? The Internet of the future should provide better services, more intelligence, greater involvement and participation. It needs to reflect European social and ethical values: ie free, open and more interoperable. What does it take to make this happen?
+Next Generation Internet (NGI) - To what extent is it possible to create awareness of  problems of sustainability and put collective solutions in place? The Internet of the future should provide better services, more intelligence, greater involvement and participation. It needs to reflect European social and ethical values: ie freedom, openness and more interoperability. What does it take to make this happen?
 
  - **Loretta Anania** Programme Officer, DG Communication Networks Content and Technologies, Next Generation Internet Unit, European Commission
 
@@ -61,10 +61,10 @@ Digital technologies can transform societies by mobilizing collective actions an
 
 - contribution introduced and moderated by **Fabio Sgaragli**, Fondazione Giacomo Brodolini:
 
-  - **Alberto Cottica**, Edgeryders
-  - **Paulien Melis**, Creative Care Lab of Waag Society
-  - **Olivier De Fresnoye**, Echopen project
-  - **Winnie Poncelet**, Open Insuline project
+  - **Alberto Cottica** Edgeryders
+  - **Paulien Melis** Creative Care Lab of Waag Society
+  - **Olivier De Fresnoye** Echopen project
+  - **Winnie Poncelet / Anthony Di Franco** Open Insuline project
 
 ### 16:30 - 16:45 |	**Coffee break**
 
@@ -154,7 +154,7 @@ Rethinking care systems for people and with people, with the help of digital fab
   - **Gehan McCloud** GalGael Trust - GalGael
   - **Carlos Arturo Torres** - Lego prosthetic for children
   - **Francesca Fedeli** Fight the stroke - Call for brain
-  - **Enrico Bassi** Open Dot - L’oggetto che non c’è
+  - **Antonia Madella / Cristina Dornini**, Together To Go, Project UNICO
   - **Antonella Bertolotti** Fondazione Cariplo - Codesign for Rehabilitation and Wellbeing - CReW
 
 ###	16:15 - 16:30	|	**Final remarks**
