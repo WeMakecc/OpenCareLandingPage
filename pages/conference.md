@@ -19,7 +19,7 @@ We’ll discuss what are the new models for community care and how are they gain
 
 The conclusion of the European project **opencare** is a real chance to tackle these themes with both local and global communities, with researchers, key international experts and policy makers.
 
-[Book your seat](https://www.eventbrite.it/e/biglietti-conferenza-finale-del-progetto-eu-opencare-38492812037?aff=efbevent&mc_cid=e1bdf7877e&mc_eid=73a6661c4d)
+<a href="https://www.eventbrite.it/e/biglietti-conferenza-finale-del-progetto-eu-opencare-38492812037?aff=efbevent&mc_cid=e1bdf7877e&mc_eid=73a6661c4d" class="btn">Book your seat</a>
 
 ---
 
