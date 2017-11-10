@@ -49,7 +49,7 @@ The conclusion of the European project **opencare** is a real chance to tackle t
 
 ### 15:00 - 15:15 | **Digital Social Innovation and Citizen Engagement**
 
-Next Generation Internet (NGI) - To what extent is it possible to create awareness of  problems of sustainability and put collective solutions in place? The Internet of the future should provide better services, more intelligence, greater involvement and participation. It needs to reflect European social and ethical values: ie free, open and more interoperable. What does it take to make this happen?
+Next Generation Internet (NGI) - To what extent is it possible to create awareness of  problems of sustainability and put collective solutions in place? The Internet of the future should provide better services, more intelligence, greater involvement and participation. It needs to reflect European social and ethical values: ie freedom, openness and more interoperability. What does it take to make this happen?
 
  - **Loretta Anania** Programme Officer, DG Communication Networks Content and Technologies, Next Generation Internet Unit, European Commission
 
@@ -63,10 +63,10 @@ Digital technologies can transform societies by mobilizing collective actions an
 
 - contribution introduced and moderated by **Fabio Sgaragli**, Fondazione Giacomo Brodolini:
 
-  - **Alberto Cottica**, Edgeryders
-  - **Paulien Melis**, Creative Care Lab of Waag Society
-  - **Olivier De Fresnoye**, Echopen project
-  - **Winnie Poncelet**, Open Insuline project
+  - **Alberto Cottica** Edgeryders
+  - **Paulien Melis** Creative Care Lab of Waag Society
+  - **Olivier De Fresnoye** Echopen project
+  - **Winnie Poncelet / Anthony Di Franco** Open Insuline project
 
 ### 16:30 - 16:45 |	**Coffee break**
 
@@ -84,23 +84,23 @@ Are Cities “Innovation Machines”? And how can City Administrations foster in
   - **Carolina Pacchi**  Polytechnic of Milan  / Civic crowdfunding and citizen-led micro-regeneration in Milan and in European cities
   - **Cosimo Palazzo** City of Milan / WeMi as a digital/physical platform to reconnect care solutions with societal need
 
-###	17:45 – 18:00	|	Final remarks
+###	17:45 – 18:00	|	**Final remarks**
 
 - **Zoe Romano** WeMake
 
-###	18:00 – 19:00	|	Call for solutions Open Innovation for Community Care
+###	18:00 – 19:00	|	**Call for solutions Open Innovation for Community Care**
 Selected projects presentation
 
-### 19:00 Happy Hour
+### 19:00 | **Happy Hour**
 
 ---
 
 ## <a name="23nov"></a> 23rd November | **New Urban Economies and Care**
    - the conference will be held in italian and english with simultaneous interpreting
 
-###	9:00 - 9.30 | Welcome coffee
+###	9:00 - 9.30 | **Welcome coffee**
 
-###	9:30 - 10:30 | New Urban Economies and Digital Manufacturing: City of Milan’s vision
+###	9:30 - 10:30 | **New Urban Economies and Digital Manufacturing: City of Milan’s vision**
 
 - Keynote speaker:
 
@@ -117,17 +117,17 @@ Selected projects presentation
 
 - **Cristina Tajani** City of Milan
 
-###	10:30 - 10:45	|	Make to care
+###	10:30 - 10:45	|	**Make to Care: an emerging innovation ecosystem**
 - **Stefano Maffei** Politecnico di Milano
 
-### 10:45 - 11:15	|	From care services to care as an open system: **opencare**’s perspective
+### 10:45 - 11:15	|	**From care services to care as an open system: **opencare**’s perspective**
 
 - **Rossana Torri** City of Milan
 - **Costantino Bongiorno** WeMake
 
-###	11:15 - 11:30 |	Coffee break
+###	11:15 - 11:30 |	**Coffee break**
 
-###	11:30 - 13:00 |	Economies of care and innovation
+###	11:30 - 13:00 |	**Economies of care and innovation**
 
 - contribution introduced and moderated by **Francesco Samorè** Fondazione G. Bassetti - SMART-map project:
 
@@ -139,14 +139,14 @@ Selected projects presentation
 
 Collaborative economics and new technologies are today contributing to radical innovation in care solutions for citizens, personalizing them by re-establishing the centrality of those needs not met by traditional welfare systems, but under what conditions? What are the economic impacts of innovation on the care world? Is the active use of models based on co-design and customization sustainable? And how can the public actor rethink its role within "open" care systems?
 
-###	13:00 - 13:15	|	An introduction to the exhibitions
+###	13:00 - 13:15	|	**An introduction to the exhibitions**
 
 - **Fabrizio Marta** Rotellando, **Liat Rogel** Naba
 - **Claudio Mustacchi** presidente Associazione Italiana Corea di Huntington
 
-###	13:15- 14:30	|	Light Lunch
+###	13:15- 14:30	|	**Light Lunch**
 
-###	14:30 - 16:15	|	Rethinking care systems
+###	14:30 - 16:15	|	**Rethinking care systems**
 
 Rethinking care systems for people and with people, with the help of digital fabrication, co-design and innovation in production processes.
 
@@ -156,14 +156,14 @@ Rethinking care systems for people and with people, with the help of digital fab
   - **Gehan McCloud** GalGael Trust - GalGael
   - **Carlos Arturo Torres** - Lego prosthetic for children
   - **Francesca Fedeli** Fight the stroke - Call for brain
-  - **Enrico Bassi** Open Dot - L’oggetto che non c’è
+  - **Antonia Madella / Cristina Dornini**, Together To Go, Project UNICO
   - **Antonella Bertolotti** Fondazione Cariplo - Codesign for Rehabilitation and Wellbeing - CReW
 
-###	16:15 - 16:30	|	Final remarks
+###	16:15 - 16:30	|	**Final remarks**
 
  - **Marianna D’Ovidio** Università degli Studi di Bari
 
-###	16:30 - 17:30  |	Call for Solutions
+###	16:30 - 17:30  |	**Call for Solutions**
 - 3 Minutes-Pitch and Projects Awards
 
 ---
