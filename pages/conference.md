@@ -150,7 +150,7 @@ Rethinking care systems for people and with people, with the help of digital fab
 
 - contribution introduced and moderated by **Alessia Maccaferri** IlSole24Ore - Nova:
 
-  - **Costantino Bongiorno** WeMake & Lisa Noja City of Milan  Open Rampette
+  - **Costantino Bongiorno** WeMake & **Lisa Noja** City of Milan  Open Rampette
   - **Gehan McCloud** GalGael Trust - GalGael
   - **Carlos Arturo Torres** - Lego prosthetic for children
   - **Francesca Fedeli** Fight the stroke - Call for brain
