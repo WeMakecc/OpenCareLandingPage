@@ -118,7 +118,7 @@ Selected projects presentation
 ###	10:30 - 10:45	|	**Make to Care: an emerging innovation ecosystem**
 - **Stefano Maffei** Politecnico di Milano
 
-### 10:45 - 11:15	|	**From care services to care as an open system: **opencare**’s perspective**
+### 10:45 - 11:15	|	**From care services to care as an open system: opencare’s perspective**
 
 - **Rossana Torri** City of Milan
 - **Costantino Bongiorno** WeMake
@@ -133,7 +133,7 @@ Selected projects presentation
   - **Mario Calderini** DIG - Politecnico di Milano
   - **Lucia Scopelliti** Comune di Milano - Direzione Economia Urbana e Lavoro
   - **Gaela Bernini** Fondazione Bracco
-  - **Valentina Amorese** Fondazione Cariplo - RRI Tools"
+  - **Valentina Amorese** Fondazione Cariplo - RRI Tools
 
 Collaborative economics and new technologies are today contributing to radical innovation in care solutions for citizens, personalizing them by re-establishing the centrality of those needs not met by traditional welfare systems, but under what conditions? What are the economic impacts of innovation on the care world? Is the active use of models based on co-design and customization sustainable? And how can the public actor rethink its role within "open" care systems?
 
