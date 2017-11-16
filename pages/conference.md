@@ -74,7 +74,7 @@ Are Cities “Innovation Machines”? And how can City Administrations foster in
 
 - Keynote speaker:
 
--  **Marco Zappalorto**, Nesta Italia
+- **Marco Zappalorto**, Nesta Italia
 
 - contribution introduced and moderated by **Claudio Calvaresi**, Avanzi:
 
@@ -86,10 +86,8 @@ Are Cities “Innovation Machines”? And how can City Administrations foster in
 
 - **Zoe Romano** WeMake
 
-###	18:00 – 19:00	|	**Call for solutions Open Innovation for Community Care**
-Selected projects presentation
-
-### 19:00 | **Happy Hour**
+###	18:00 – 19:00	|	**Call for solutions Open Innovation for Community Care Exhibition**
+Selected projects **exhibition + happy hour**
 
 ---
 
@@ -140,7 +138,7 @@ Collaborative economics and new technologies are today contributing to radical i
 ###	13:00 - 13:15	|	**An introduction to the exhibitions**
 
 - **Fabrizio Marta** Rotellando, **Liat Rogel** Naba
-- **Claudio Mustacchi** presidente Associazione Italiana Corea di Huntington
+- **Davide Crippa** curatore della mostra "Secondo Nome: Huntington"
 
 ###	13:15- 14:30	|	**Light Lunch**
 
@@ -152,7 +150,7 @@ Rethinking care systems for people and with people, with the help of digital fab
 
   - **Costantino Bongiorno** WeMake & **Lisa Noja** City of Milan  Open Rampette
   - **Gehan McCloud** GalGael Trust - GalGael
-  - **Carlos Arturo Torres** - Lego prosthetic for children
+  - **Carlos Arturo Torres** - IKO - Lego prosthetic for children
   - **Francesca Fedeli** Fight the stroke - Call for brain
   - **Antonia Madella / Cristina Dornini**, Together To Go, Project UNICO
   - **Antonella Bertolotti** Fondazione Cariplo - Codesign for Rehabilitation and Wellbeing - CReW
@@ -161,7 +159,7 @@ Rethinking care systems for people and with people, with the help of digital fab
 
  - **Marianna D’Ovidio** Università degli Studi di Bari
 
-###	16:30 - 17:30  |	**Call for Solutions**
+###	16:30 - 17:30  |	**Call for Solutions Pitch and Awards**
 - 3 Minutes-Pitch and Projects Awards
 
 ---
