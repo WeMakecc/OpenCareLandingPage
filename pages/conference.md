@@ -9,7 +9,7 @@ permalink: conference/
 
 # Digital Social Innovation and the future of Care
 
-![Digital Social Innovation and the Future of Care]({{site.baseurl}}/assets/OC-finalconf04.jpg)
+[![Digital Social Innovation and the Future of Care]({{site.baseurl}}/assets/OC-finalconf04.jpg){:widht=100%}](https://www.eventbrite.it/e/biglietti-conferenza-finale-del-progetto-eu-opencare-38492812037?aff=efbevent&mc_cid=e1bdf7877e&mc_eid=73a6661c4d)
 
 <!-- [vai alla pagina in italiano]({{site.baseurl}}/it/conferenza) -->
 
