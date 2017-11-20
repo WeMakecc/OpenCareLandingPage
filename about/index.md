@@ -1,13 +1,8 @@
 ---
-layout: default
-title: About
+layout: page
+title: ABOUT
 published: true
-ref: about
 lang: en
+ref: about
+permalink: about/
 ---
-
-# About page
-
-*this is an about page in english*
-
-*lorem ipsum etc etc*

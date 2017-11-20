@@ -1,19 +1,19 @@
 - title: CONFERENZA
-  url: /it/conferenza
+  sublinks:
+    - title: PROGRAMMA
+      url: /it/conferenza
+    - title: SPEAKER
+      url: /speaker
+    - title: CALL FOR SOLUTIONS
+      url: /callforsolutions
+    - title: EXHIBITION
+      url: /exhibition
 
 - title: OPENVILLAGE
   url: http://festival.edgeryders.eu/
 
 - title: PLAYBOOK
   url: http://playbook.opencare.cc/
-
-- title: ABOUT
-  url: /it/about
-  sublinks:
-    - title: CONSEGNE
-      url: /it/consegne
-    - title: PRIVACY E OPENCARE
-      url: /it/privacy
 
 - title: PROGETTI
   url: /it/projects
@@ -22,3 +22,11 @@
       url: http://inpe.opencare.cc/it/
     - title: OPEN RAMPETTE
       url: http://rampette.opencare.cc/
+
+- title: ABOUT
+  url: /it/about
+  sublinks:
+    - title: CONSEGNE
+      url: /it/consegne
+    - title: PRIVACY E OPENCARE
+      url: /it/privacy
