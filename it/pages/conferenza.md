@@ -142,7 +142,6 @@ Rethinking care systems for people and with people, with the help of digital fab
   - **Costantino Bongiorno** WeMake & **Lisa Noja** City of Milan  Open Rampette
   - **Gehan McCloud** GalGael Trust - GalGael
   - **Carlos Arturo Torres** - IKO - Lego prosthetic for children
-  - **Francesca Fedeli** Fight the stroke - Call for brain
   - **Antonia Madella / Cristina Dornini**, Together To Go, Project UNICO
   - **Antonella Bertolotti** Fondazione Cariplo - Codesign for Rehabilitation and Wellbeing - CReW
 
