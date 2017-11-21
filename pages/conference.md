@@ -197,13 +197,13 @@ Rethinking care systems for people and with people, with the help of digital fab
             <img src="/assets/partner/OC-logo_edgeryders_02.png">
           </a>
           <a href="">
-            <img src="../assets/partner/OC-logo_stockholmschoolofeconomics.jpg">
+            <img src="../assets/partner/OC-logo_stockholmschoolofeconomics.png">
           </a>
           <a href="">
             <img src="../assets/partner/OC-logo_scimpulse.png">
           </a>
           <a href="">
-            <img src="../assets/partner/OC-logo_universitèdebordeaux.gif">
+            <img src="../assets/partner/OC-logo_universitèdebordeaux.png">
           </a>
     </div>
 </div>
@@ -233,7 +233,7 @@ Rethinking care systems for people and with people, with the help of digital fab
   <div class="row no-border">
     <img src="../assets/partner/OC_Conference_logoAVANZI.png">
     <img src="../assets/partner/OC_Conference_logoENDEAVOR.png">
-    <img src="../assets/partner/OC_Conference_logoFABRIQ.jpg">
+    <img src="../assets/partner/OC_Conference_logoFABRIQ.png">
     <img src="../assets/partner/OC_Conference_logoCARIPLO.png">
     <img src="../assets/partner/OC-logo_WeMake.png">
   </div>

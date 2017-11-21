@@ -7,7 +7,7 @@ ref: conference
 permalink: conference/organizer
 ---
 
-# Conference organizer
+# Organizer
 
 <div class="partnersbig">
     <div class="row no-border">
@@ -34,13 +34,13 @@ permalink: conference/organizer
             <img src="/assets/partner/OC-logo_edgeryders_02.png">
           </a>
           <a href="">
-            <img src="../assets/partner/OC-logo_stockholmschoolofeconomics.jpg">
+            <img src="../assets/partner/OC-logo_stockholmschoolofeconomics.png">
           </a>
           <a href="">
             <img src="../assets/partner/OC-logo_scimpulse.png">
           </a>
           <a href="">
-            <img src="../assets/partner/OC-logo_universitèdebordeaux.gif">
+            <img src="../assets/partner/OC-logo_universitèdebordeaux.png">
           </a>
     </div>
 </div>
@@ -70,26 +70,8 @@ permalink: conference/organizer
   <div class="row no-border">
     <img src="../assets/partner/OC_Conference_logoAVANZI.png">
     <img src="../assets/partner/OC_Conference_logoENDEAVOR.png">
-    <img src="../assets/partner/OC_Conference_logoFABRIQ.jpg">
+    <img src="../assets/partner/OC_Conference_logoFABRIQ.png">
     <img src="../assets/partner/OC_Conference_logoCARIPLO.png">
     <img src="../assets/partner/OC-logo_WeMake.png">
   </div>
 </div>
-
-
-
-<!-- -----
-## Program (short version)
-
-### 22nd November - 2:00 pm to 7:00pm
-- Next generation internet, digital social innovation & citizen engagement
-- The relationship between collective intelligence and social innovation
-- Cities as platforms for open innovation and the role of the Public Administration
-
-### 23d November - 10:00am to 5:30pm (followed by refreshments)
-- New urban economy and Manufacturing 4.0 as a digital lever for inclusive innovation
-- Care as an open and collaborative system
-- Care economies and innovation
-- Re-thinking care systems for people and with people: some real-life examples
-
----- -->
