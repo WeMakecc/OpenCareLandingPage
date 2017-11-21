@@ -203,7 +203,7 @@ Rethinking care systems for people and with people, with the help of digital fab
             <img src="../assets/partner/OC-logo_scimpulse.png">
           </a>
           <a href="">
-            <img src="../assets/partner/OC-logo_universitèdebordeaux.png">
+            <img src="../assets/partner/OC-logo_universitedebordeaux.png">
           </a>
     </div>
 </div>

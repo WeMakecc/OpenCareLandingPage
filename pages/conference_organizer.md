@@ -40,7 +40,7 @@ permalink: conference/organizer
             <img src="../assets/partner/OC-logo_scimpulse.png">
           </a>
           <a href="">
-            <img src="../assets/partner/OC-logo_universitèdebordeaux.png">
+            <img src="../assets/partner/OC-logo_universitedebordeaux.png">
           </a>
     </div>
 </div>
