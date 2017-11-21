@@ -125,13 +125,13 @@ Selected projects **exhibition + happy hour**
 
 ###	11:30 - 13:00 |	**Economies of care and innovation**
 
-- contribution introduced and moderated by **Francesco Samorè** Fondazione G. Bassetti - SMART-map project:
+- contribution introduced and moderated by **Francesco Samorè** Fondazione G. Bassetti
 
   - **Erik Lakomaa** Stockholm School of Economics
   - **Mario Calderini** DIG - Politecnico di Milano
   - **Lucia Scopelliti** Comune di Milano - Direzione Economia Urbana e Lavoro
   - **Gaela Bernini** Fondazione Bracco
-  - **Valentina Amorese** Fondazione Cariplo - RRI Tools
+  - **Angela Simone**, Fondazione Giannino Bassetti - SMART-map
 
 Collaborative economics and new technologies are today contributing to radical innovation in care solutions for citizens, personalizing them by re-establishing the centrality of those needs not met by traditional welfare systems, but under what conditions? What are the economic impacts of innovation on the care world? Is the active use of models based on co-design and customization sustainable? And how can the public actor rethink its role within "open" care systems?
 

@@ -116,13 +116,13 @@ Selected projects **exhibition + happy hour**
 
 ###	11:30 - 13:00 |	**Economies of care and innovation**
 
-- contributi introdotti e moderati da **Francesco Samorè** Fondazione G. Bassetti - SMART-map project:
+- contributi introdotti e moderati da **Francesco Samorè** Fondazione G. Bassetti:
 
   - **Erik Lakomaa** Stockholm School of Economics
   - **Mario Calderini** DIG - Politecnico di Milano
   - **Lucia Scopelliti** Comune di Milano - Direzione Economia Urbana e Lavoro
   - **Gaela Bernini** Fondazione Bracco
-  - **Valentina Amorese** Fondazione Cariplo - RRI Tools
+  - **Angela Simone** Fondazione Giannino Bassetti - SMART-map
 
 L’economia della collaborazione e le nuove tecnologie stanno oggi contribuendo a innovare radicalmente le soluzioni di cura per i cittadini, personalizzandole e rimettendo al centro bisogni che non trovano risposte nell’ambito dei sistemi tradizionali di protezione, ma a quali condizioni? Quali sono gli impatti economici dell’innovazione nel mondo della cura? I modelli di intervento basati sulla co-progettazione e la customizzazione sono sostenibili? E come l’attore pubblico può ripensare il proprio ruolo all’interno di sistemi di cura “aperti”?
 
