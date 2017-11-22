@@ -17,7 +17,7 @@ You can contribute to the live documentation using these shared docs (using gdri
 
 # Social
 
-Follow the hashtag <a href="https://twitter.com/hashtag/opencare?f=tweets&vertical=default" target="_blank">#opencare</a> and <a href="" target="_blank">#dsi</a>
+Follow the hashtag <a href="https://twitter.com/hashtag/opencare?f=tweets&vertical=default" target="_blank">#opencare</a> and <a href="https://twitter.com/hashtag/dsi?f=tweets&vertical=default" target="_blank">#dsi</a>
 
  <a href="" target="_blank">@wemakecc</a> @edgeryders @op3ncare
 
