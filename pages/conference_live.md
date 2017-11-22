@@ -17,7 +17,7 @@ You can contribute to the live documentation using these shared docs (using gdri
 
 # Social
 
-Follow the hashtag <a href="" target="_blank">#opencare</a> and <a href="" target="_blank">#dsi</a>
+Follow the hashtag <a href="https://twitter.com/hashtag/opencare?f=tweets&vertical=default" target="_blank">#opencare</a> and <a href="" target="_blank">#dsi</a>
 
  <a href="" target="_blank">@wemakecc</a> @edgeryders @op3ncare
 
@@ -26,3 +26,5 @@ Follow the hashtag <a href="" target="_blank">#opencare</a> and <a href="" targe
 Follow updates about the conference on [EdgeRyders](https://edgeryders.eu/c/opencare)
 
 # Streaming
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7Ot9V5hhApA?rel=0" frameborder="0" allowfullscreen></iframe>
