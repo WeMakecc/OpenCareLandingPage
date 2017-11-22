@@ -3,10 +3,10 @@
   sublinks:
     - title: PROGRAM
       url: /conference
-    - title: DIGITAL KIT
-      url: https://www.dropbox.com/sh/kto3x6neemfk9ol/AAARGoaD1ZNBe63dl_7-QKqTa?dl=0
-    - title: CONFERENCE | LIVE
+    - title: CONFERENCE LIVE
       url: /conference/live
+    - title: DIGITAL KIT
+      url: /conferece/digitalkit
     - title: CALL FOR SOLUTIONS
       url: /callforsolutions
     - title: ORGANIZER
