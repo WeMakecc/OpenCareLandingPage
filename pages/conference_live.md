@@ -13,12 +13,16 @@ You can contribute to the live documentation using these shared docs (using gdri
 
 <a href="https://drive.google.com/drive/u/0/folders/1ZbJKy9f90OPtYS0IopVbEQdWyH-p14ew" target="_blank" class="btn">live documentation</a>
 
+<a href="" target="_blank"></a>
+
 # Social
 
-Follow the hashtag #opencare #dsi
+Follow the hashtag <a href="" target="_blank">#opencare</a> and <a href="" target="_blank">#dsi</a>
 
- @wemakecc @edgeryders @op3ncare
+ <a href="" target="_blank">@wemakecc</a> @edgeryders @op3ncare
 
 # On Edgeryders
+
+Follow updates about the conference on [EdgeRyders](https://edgeryders.eu/c/opencare)
 
 # Streaming
