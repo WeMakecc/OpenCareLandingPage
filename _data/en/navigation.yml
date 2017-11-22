@@ -31,10 +31,10 @@
       url: http://rampette.opencare.cc/
 
 - title: ABOUT
-  url: /about
+  url: /
   sublinks:
     - title: ABOUT
-      url: /about
+      url: /
     - title: DELIVERABLES
       url: /deliverables
     - title: PRIVACY ON OPENCARE
