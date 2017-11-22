@@ -27,4 +27,7 @@ Follow updates about the conference on [EdgeRyders](https://edgeryders.eu/c/open
 
 # Streaming
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tV2Iaxms4nY?rel=0" frameborder="0" allowfullscreen></iframe>
+
+# Recorded Session
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7Ot9V5hhApA?rel=0" frameborder="0" allowfullscreen></iframe>
