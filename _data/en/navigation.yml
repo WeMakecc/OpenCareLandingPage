@@ -3,12 +3,12 @@
   sublinks:
     - title: PROGRAM
       url: /conference
-    - title: SPEAKER
-      url: /conference
+#    - title: SPEAKER
+#      url: /conference
     - title: CALL FOR SOLUTIONS
       url: /callforsolutions
-    - title: EXHIBITION
-      url: /conference
+#    - title: EXHIBITION
+#      url: /conference
     - title: ORGANIZER
       url: /conference/organizer
 
