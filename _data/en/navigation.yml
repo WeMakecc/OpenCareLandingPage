@@ -3,17 +3,18 @@
   sublinks:
     - title: PROGRAM
       url: /conference
-    - title: LIVE
+    - title: DIGITAL KIT
+      url: https://www.dropbox.com/sh/kto3x6neemfk9ol/AAARGoaD1ZNBe63dl_7-QKqTa?dl=0
+    - title: CONFERENCE | LIVE
       url: /conference/live
-#    - title: SPEAKER
-#      url: /conference
     - title: CALL FOR SOLUTIONS
       url: /callforsolutions
-#    - title: EXHIBITION
-#      url: /conference
     - title: ORGANIZER
       url: /conference/organizer
-
+#    - title: SPEAKER
+#      url: /conference
+#    - title: EXHIBITION
+#      url: /conference
 
 - title: OPENVILLAGE
   url: http://festival.edgeryders.eu/
