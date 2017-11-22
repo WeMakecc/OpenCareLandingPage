@@ -9,13 +9,13 @@ permalink: conference/
 
 # Digital Social Innovation and the future of Care
 
-[![Digital Social Innovation and the Future of Care]({{site.baseurl}}/assets/OC-finalconf04.jpg){:widht=100%}](https://www.eventbrite.it/e/biglietti-conferenza-finale-del-progetto-eu-opencare-38492812037?aff=efbevent&mc_cid=e1bdf7877e&mc_eid=73a6661c4d)
+[![Digital Social Innovation and the Future of Care]({{site.baseurl}}/assets/OC-finalconf04.jpg){:widht=100%}](http://opencare.cc/conference/live)
 
 <!-- [vai alla pagina in italiano]({{site.baseurl}}/it/conferenza) -->
 
 We are happy to invite you to join our **opencare** conference taking place in Milan on **22nd and 23rd of November**.
 
-<a href="https://www.eventbrite.it/e/biglietti-conferenza-finale-del-progetto-eu-opencare-38492812037?aff=efbevent&mc_cid=e1bdf7877e&mc_eid=73a6661c4d" class="btn">Book your seat</a>
+<a href="http://opencare.cc/conference/live" class="btn">Conference is live!</a>
 
 We’ll discuss what are the new models for community care and how are they gaining ground thanks to digital technologies. What urban or organizational conditions can facilitate the spread of open and collaborative care systems? What is the role of new digital manufacturing players in processes of social innovation and care?
 
