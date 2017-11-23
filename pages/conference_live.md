@@ -25,6 +25,12 @@ Follow the hashtag <a href="https://twitter.com/hashtag/opencare?f=tweets&vertic
 
 Follow updates about the conference on [EdgeRyders](https://edgeryders.eu/c/opencare)
 
+# Digital kit
+
+Here you can find all the material shared with participants.
+ 
+<a href="https://www.dropbox.com/sh/9ajsmtfjna67zc5/AACmWVpAk-cSa9__MvRVZcb6a?dl=0" target="_blank" class="btn">download</a>
+
 # Streaming
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yo0swVXDckE?rel=0" frameborder="0" allowfullscreen></iframe>
 
