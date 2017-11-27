@@ -29,7 +29,7 @@ To do so, we analyse the content of the conversations through softwares which he
 
 For the means of the opencare research project, Edgeryders shares via secured and encrypted means access to research data, marked up for ethnographic study, after pseudonymization.
 
-##[Get to know what we do with the data,read our Data Management Plan!](https://drive.google.com/open?id=0B_vWawrKpTaFQjczaGtkVDZZdW8)
+##[Get to know what we do with the data,read our Data Management Plan!](https://github.com/opencarecc/opencare-data-documentation/blob/master/Data%20management%20plan/Data_in_Opencare.pdf)
 
 ### Q&A : about participating to the opencare project
 
