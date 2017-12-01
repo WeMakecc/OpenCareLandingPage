@@ -16,11 +16,8 @@
 #    - title: EXHIBITION
 #      url: /conference
 
-- title: OPENVILLAGE
-  url: http://festival.edgeryders.eu/
-
-- title: PLAYBOOK
-  url: http://playbook.opencare.cc/
+- title: OPEN RAMPETTE
+  url: http://rampette.opencare.cc/
 
 - title: PROJECTS
   url: /projects
@@ -29,13 +26,27 @@
       url: http://inpe.opencare.cc/
     - title: OPEN RAMPETTE
       url: http://rampette.opencare.cc/
+    - title: ALLERGOKI
+      url: http://allergoki.opencare.cc/
+    - title: BREATHING GAMES
+      url: http://breathinggames.opencare.cc/
+    - title: REHUB
+      url: http://rehub.opencare.cc/
+    - title: VOICE INSTRUMENTS
+      url: http://voiceinstruments.opencare.cc/
+    - title: WEHANDU
+      url: http://wehandu.opencare.cc/
 
 - title: ABOUT
   url: /
   sublinks:
-    - title: ABOUT
-      url: /
+#   - title: ABOUT
+#     url: /
     - title: DELIVERABLES
       url: /deliverables
     - title: PRIVACY ON OPENCARE
       url: /privacy
+    - title: OPENVILLAGE
+      url: http://festival.edgeryders.eu/
+    - title: PLAYBOOK
+      url: http://playbook.opencare.cc/
