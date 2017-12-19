@@ -146,7 +146,7 @@ Collaborative economics and new technologies are today contributing to radical i
 
 Rethinking care systems for people and with people, with the help of digital fabrication, co-design and innovation in production processes.
 
-- contribution introduced and moderated by **Alessia Maccaferri** IlSole24Ore - Nova:
+- contribution introduced and moderated by **Bertram Niessen** cheFare
 
   - **Costantino Bongiorno** WeMake & **Lisa Noja** City of Milan  Open Rampette
   - **Gehan McCloud** GalGael Trust - GalGael
