@@ -7,7 +7,7 @@ ref: conference documentation
 permalink: conference/documentation
 ---
 
-# Live Documentation
+# Documentation
 
 You can read<a href="https://drive.google.com/drive/u/0/folders/1ZbJKy9f90OPtYS0IopVbEQdWyH-p14ew" target="_blank" > the documentation taken during the conference documentation</a> (on gdrive)
 
@@ -15,13 +15,13 @@ You can read<a href="https://drive.google.com/drive/u/0/folders/1ZbJKy9f90OPtYS0
 
 # Digital kit
 
-<a href="https://www.dropbox.com/sh/9ajsmtfjna67zc5/AACmWVpAk-cSa9__MvRVZcb6a?dl=0" target="_blank">Here you can find all the material shared with participants.</a>
+Here you can find <a href="https://www.dropbox.com/sh/9ajsmtfjna67zc5/AACmWVpAk-cSa9__MvRVZcb6a?dl=0" target="_blank">all the materials shared with participants.</a>
 
-# Videos
+# **Videos**
 
 ## <a name="22nov"></a> 22nd November | **Digital Social Innovation and the Cities**
 
-### **Welcome **
+### **Welcome**
 
  - **Cristina Tajani** City of Milan
  - **Roberto Costantini** Milano Luiss Hub for Makers and Students
@@ -223,9 +223,3 @@ Rethinking care systems for people and with people, with the help of digital fab
     <img src="../assets/partner/OC-logo_WeMake.png">
   </div>
 </div>
-
-
-
----
-
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRqyNOxcmkOzP3NCF4lfTN8Ib_CNEfGTeJ3Sla4_KcUifnt4OX1YjBOZ1-KYquzlxVQiq9BTfUAi0MI/embed?start=true&loop=true&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
