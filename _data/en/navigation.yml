@@ -5,6 +5,8 @@
       url: /conference
     - title: CONFERENCE LIVE
       url: /conference/live
+    - title: CONFERENCE DOCUMENTATION
+      url: /conference/documentation
     - title: DIGITAL KIT
       url: /conference/digitalkit
     - title: CALL FOR SOLUTIONS
