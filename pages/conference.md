@@ -15,7 +15,7 @@ permalink: conference/
 
 We are happy to invite you to join our **opencare** conference taking place in Milan on **22nd and 23rd of November**.
 
-<a href="http://opencare.cc/conference/live" class="btn">Conference is live!</a>
+<a href="http://opencare.cc/conference/documentation" class="btn">Conference Documentation</a>
 
 We’ll discuss what are the new models for community care and how are they gaining ground thanks to digital technologies. What urban or organizational conditions can facilitate the spread of open and collaborative care systems? What is the role of new digital manufacturing players in processes of social innovation and care?
 
