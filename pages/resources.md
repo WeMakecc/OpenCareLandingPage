@@ -9,7 +9,7 @@ permalink: resources/
 
 
 # Resources
-
+<!--
 HTML to embed - made by openAIRE, lists all publications in open access related to the project: 	
 
 <script type="text/javascript">
@@ -27,7 +27,7 @@ HTML to embed to retrieve open data linked to opencare:
 			document.write('<script type="text/javascript" src="https://www.openaire.eu/index.php?option=com_openaire&view=widget&format=raw&projectId=corda__h2020::b596acdfc425a4be660b34c3c06bec33&type=dataset"></script>');
 			-->
 			</script>
-
+ -->
 Source: [https://www.openaire.eu/search/project?projectId=corda__h2020::b596acdfc425a4be660b34c3c06bec33](https://www.openaire.eu/search/project?projectId=corda__h2020::b596acdfc425a4be660b34c3c06bec33)
 
 ## Abstract
@@ -318,4 +318,4 @@ List as of 2016 (read [table for reporting 2016](https://docs.google.com/spreads
 
 * 20 relevant post ? (read deliverable wp2 - 20 high-quality blog posts)+ expand
 
-* New content? Long blogpost? 
+* New content? Long blogpost?

@@ -8,9 +8,9 @@ opencare.cc structure+content for publication
 
 This project brings a diverse community together - citizens with expert knowledge on health care, social care, service design, digital fabrication, collective intelligence and public policy evaluation.
 
-Opencare relies collective intelligence (online and offline) to design, prototype and evaluate care services by communities, for communities. 
+Opencare relies collective intelligence (online and offline) to design, prototype and evaluate care services by communities, for communities.
 
-We work to rethink care provision, and provide solutions to shift from a top-down to a bottom-up policy. 
+We work to rethink care provision, and provide solutions to shift from a top-down to a bottom-up policy.
 
 Using up-to-date technology for network analysis, we foster citizen participation and empowerment through online platforms. Local activities also contribute to bring forward citizen incentives, which will further be prototyped and serve as a common thread for local policy-making.
 
@@ -28,7 +28,7 @@ Using up-to-date technology for network analysis, we foster citizen participatio
 
 *Open Hardware, Open Design, Public Policies, Online Communities, Collective Intelligence, Participatory Innovation, Knowledge co-creation networks, Collective Awareness Platforms*
 
-# Consortium 
+# Consortium
 
 ## Who are we?
 
@@ -78,7 +78,7 @@ Stockholm School of Economics (SSE) is one of the leading business schools in Eu
 
 ### Scimpulse Foundation, NL
 
-SCImPULSE Foundation was created in 2013 as the culmination of a year long conversation within a community of young researchers from several EU Universities and private enterprises reflecting on the alignment (or lack thereof) of institutional incentive schemes and real world challenges. SF is a public benefit organization, providing scientific brokering within and across complex research and innovation initiatives. It offers incubation and advisory at the startup phase of ambitious, high-risk projects, and offers a platform for the engagement of stakeholders, scientific and social alike. SF contributes to its community by offering also the minimum bureaucratic and financial infrastructure to deal with private and non-institutional funding retaining a project’s independence and seamlessly mixing resources of diverse origins to guarantee a project’s continuity. 
+SCImPULSE Foundation was created in 2013 as the culmination of a year long conversation within a community of young researchers from several EU Universities and private enterprises reflecting on the alignment (or lack thereof) of institutional incentive schemes and real world challenges. SF is a public benefit organization, providing scientific brokering within and across complex research and innovation initiatives. It offers incubation and advisory at the startup phase of ambitious, high-risk projects, and offers a platform for the engagement of stakeholders, scientific and social alike. SF contributes to its community by offering also the minimum bureaucratic and financial infrastructure to deal with private and non-institutional funding retaining a project’s independence and seamlessly mixing resources of diverse origins to guarantee a project’s continuity.
 
 ### Comune di Milano, IT
 
@@ -88,11 +88,11 @@ The project proposal involved two Divisions of the City of Milan, who have alrea
 
 ● Social Policies and Health Culture Division
 
-**Labour Policies, Economic Development, Innovation and Universities **(Counsillor Cristina Tajani) is responsible for promoting the smart development of the city as an important step towards economic growth and employment, to attract resources giving rise to development, innovation and social integration in Milan. Since 2014 the Department is working on the development of a "Smart City strategy" with the cooperation of other local entities, universities, enterprises and citizens for a more technological, interconnected, sustainable and inclusive city. [http://www.milanosmartcity.org/joomla/](http://www.milanosmartcity.org/joomla/) 
+**Labour Policies, Economic Development, Innovation and Universities **(Counsillor Cristina Tajani) is responsible for promoting the smart development of the city as an important step towards economic growth and employment, to attract resources giving rise to development, innovation and social integration in Milan. Since 2014 the Department is working on the development of a "Smart City strategy" with the cooperation of other local entities, universities, enterprises and citizens for a more technological, interconnected, sustainable and inclusive city. [http://www.milanosmartcity.org/joomla/](http://www.milanosmartcity.org/joomla/)
 
 **Social Policies and Health Culture **(Councillor Pierfrancesco Majorino) is in charge of the implementation and delivery of services and supports targeted to the most vulnerable groups.
 
-As public resources are reduced and the social problems increasing, the promotion of new patterns of sociability can transform some problematic issues into opportunities and, at the same time, supporting others in a less painful perspective, freeing resources for the deep fragility which, in turn, will be included in a social fabric more able to tackle it with the necessary attention. 
+As public resources are reduced and the social problems increasing, the promotion of new patterns of sociability can transform some problematic issues into opportunities and, at the same time, supporting others in a less painful perspective, freeing resources for the deep fragility which, in turn, will be included in a social fabric more able to tackle it with the necessary attention.
 
 ## How do we work together ?
 
@@ -114,7 +114,7 @@ Finally, SCImPULSE and Edgeryders' Ezio Manzini (a reference for both academic d
 
 NO CHANGES TO ACTUAL PAGE
 
-# Resources 
+# Resources
 
 HTML to embed - made by openAIRE, lists all publications in open access related to the project: 	
 
@@ -124,9 +124,9 @@ HTML to embed to retrieve open data linked to opencare:
 
 	<script type="text/javascript">			<!--			document.write('<div id="oa_widget"></div>');			document.write('<script type="text/javascript" src="https://www.openaire.eu/index.php?option=com_openaire&view=widget&format=raw&projectId=corda__h2020::b596acdfc425a4be660b34c3c06bec33&type=dataset"></script>');			-->			</script>
 
-Source: [https://www.openaire.eu/search/project?projectId=corda__h2020::b596acdfc425a4be660b34c3c06bec33](https://www.openaire.eu/search/project?projectId=corda__h2020::b596acdfc425a4be660b34c3c06bec33) 
+Source: [https://www.openaire.eu/search/project?projectId=corda__h2020::b596acdfc425a4be660b34c3c06bec33](https://www.openaire.eu/search/project?projectId=corda__h2020::b596acdfc425a4be660b34c3c06bec33)
 
-## Abstract 
+## Abstract
 
 *This page collects all the useful documentation and resources related to the opencare project.*
 
@@ -136,7 +136,7 @@ Source: [https://www.openaire.eu/search/project?projectId=corda__h2020::b596acdf
 
 **_List as of 2017 (see _****_[publication pla_**n](https://docs.google.com/document/d/10pHYTozwZczmCle0mJrvxOX5AcXOX1eLU_I8kHXOXm4/edit?usp=sharing)**_):_**
 
-### Peer-reviewed and published 
+### Peer-reviewed and published
 
 Cottica, Alberto, Guy Melançon, and Benjamin Renoust. "Testing for the signature of policy in online communities." Complex Networks & Their Applications V, 693, Springer, pp.41 - 54, 2016, Studies in Computational Intelligence, 978-3-319-50900-6. <10.1007/978-3-319-50901-3 4>.
 
@@ -146,7 +146,7 @@ Sanandaji, T.; & Lakomaa, E. "Care, Commons and Entrepreneurship". 2016:2 SSE, W
 
 DOI: **10.13140/RG.2.2.22643.12321**
 
-### Peer reviewed 
+### Peer reviewed
 
 Alberto Cottica, Jason Villet, Amelia Hassoun, and Guy Melançon. "Semantic social networks: a new approach to scaling digital ethnography". Internet Science Conference 2017. DOI 10.5281/zenodo.832464
 
@@ -158,7 +158,7 @@ Aka "the speculative methodology paper". We propose a data-based approach to doi
 
 *Anders Munk, Guy Melançon, Alberto Cottica, Amelia Hassoun*
 
-We work with Anders Munk and some dataset from his extensive collection. We induce code co-occurrences networks from his data and ours, and we compare the networks. 
+We work with Anders Munk and some dataset from his extensive collection. We induce code co-occurrences networks from his data and ours, and we compare the networks.
 
 **Online community management as social network design: testing for the signature of management activities in online communities**
 
@@ -174,13 +174,13 @@ Presented at Complex Networks conference 2016. Published in Studies of Computati
 
 Chapter in Andersson, Movin, Mähring, Teigland & Wennberg 2017 "Managing digital transformation" Stockholm: SIR (to be published January 2017).
 
-On the concept of "open care" and its value to research on digitalization and for public sector innovation and renewal. The chapter will address the following questions: 
+On the concept of "open care" and its value to research on digitalization and for public sector innovation and renewal. The chapter will address the following questions:
 
-- Under what circumstances will open care projects emerge? 
+- Under what circumstances will open care projects emerge?
 
-- What formal and informal institutions facilitate the emergence of "open care"? 
+- What formal and informal institutions facilitate the emergence of "open care"?
 
- - To what extent can open care be a solution for future challenges in care (e.g. equity, cost inflation, rising demand)? 
+ - To what extent can open care be a solution for future challenges in care (e.g. equity, cost inflation, rising demand)?
 
 -When is open care solutions  "scalable"?
 
@@ -194,19 +194,19 @@ On historical and contemporary examples of open care. To be published as Working
 
 *Amelia Hassoun*
 
-Anthropological analysis of Open Care findings. How do people find health and social care when existing systems have failed them? According to a year of ethnographic research on Open Care, through communities who work both inside and outside existing systems to care for each other in times of crisis. Findings show that the most precious healthcare resource is other people (relates to DM’s point about the cell phone). 
+Anthropological analysis of Open Care findings. How do people find health and social care when existing systems have failed them? According to a year of ethnographic research on Open Care, through communities who work both inside and outside existing systems to care for each other in times of crisis. Findings show that the most precious healthcare resource is other people (relates to DM’s point about the cell phone).
 
-Target Journal: Either Hau: Journal of Ethnographic Theory or Cultural Anthropology (both Open Access, both top 20 in anthro journals) 
+Target Journal: Either Hau: Journal of Ethnographic Theory or Cultural Anthropology (both Open Access, both top 20 in anthro journals)
 
 ### Interdisciplinary Journals
 
-New Media and Society: [http://journals.sagepub.com/home/nms](http://journals.sagepub.com/home/nms) 
+New Media and Society: [http://journals.sagepub.com/home/nms](http://journals.sagepub.com/home/nms)
 
 Social Networks: [https://www.journals.elsevier.com/social-networks/](https://www.journals.elsevier.com/social-networks/)
 
 ### Possible conferences
 
-[Complex Networks 2017](http://www.complexnetworks.org/) Deadline: September 4th 
+[Complex Networks 2017](http://www.complexnetworks.org/) Deadline: September 4th
 
 ## Events
 
@@ -414,31 +414,31 @@ List as of 2016 (read [table for reporting 2016](https://docs.google.com/spreads
 
 * 20 relevant post ? (read deliverable wp2 - 20 high-quality blog posts)+ expand
 
-* New content? Long blogpost? 
+* New content? Long blogpost?
 
 # Videos on opencare
 
 ## What is opencare ?
 
-* [How do we DIY welfare when systems fail?](https://vimeo.com/162811723) 
+* [How do we DIY welfare when systems fail?](https://vimeo.com/162811723)
 
 * [opencare, progetto europeo per i bisogni di cura](https://www.youtube.com/watch?v=vOHTQR0kaew)
 
-* [#OpenCare: Medicina e Cura OpenSource – Alessandro Contini](https://www.youtube.com/watch?v=ck9duCBeovg) 
+* [#OpenCare: Medicina e Cura OpenSource – Alessandro Contini](https://www.youtube.com/watch?v=ck9duCBeovg)
 
-* [Nadia El-Imam - Opencare communities as care providers in Greece](https://www.youtube.com/watch?v=r6B0WF01afI) 
+* [Nadia El-Imam - Opencare communities as care providers in Greece](https://www.youtube.com/watch?v=r6B0WF01afI)
 
 ## Events
 
 * [OpenCare | Milano meets Local Communities [it]](https://www.youtube.com/watch?v=tiE2dZl4nIE&list=UUf1-MIAJ9y80qotp6fMnuSA&index=4)
 
-* [opencare at MakerFaire Rome 2016](https://www.youtube.com/watch?v=1M29EfSfwiA&index=2&list=UUf1-MIAJ9y80qotp6fMnuSA) 
+* [opencare at MakerFaire Rome 2016](https://www.youtube.com/watch?v=1M29EfSfwiA&index=2&list=UUf1-MIAJ9y80qotp6fMnuSA)
 
 * [Opencare | Codesign Session 01](https://www.youtube.com/watch?v=0hiOdVWSWDo&list=UUf1-MIAJ9y80qotp6fMnuSA&index=3)
 
 ## Prototypes
 
-* [opencare | InPe' prototype - Work in progress](https://www.youtube.com/watch?v=qNk2NBsRiFc&list=UUf1-MIAJ9y80qotp6fMnuSA) 
+* [opencare | InPe' prototype - Work in progress](https://www.youtube.com/watch?v=qNk2NBsRiFc&list=UUf1-MIAJ9y80qotp6fMnuSA)
 
 * [opencare | open rampette prototype](https://www.youtube.com/watch?v=bARoyq8Tnto)
 
@@ -458,7 +458,7 @@ Official - ( with working links!!)
 
 # Playbook
 
-Static page with the list of curated content + relevant for the general public deliverable 
+Static page with the list of curated content + relevant for the general public deliverable
 
 # Maker Playbook (wemake)
 
@@ -477,4 +477,3 @@ All the links to the mini website
 ## … Other projects to feature …
 
 ## Link to GraphRyder
-
