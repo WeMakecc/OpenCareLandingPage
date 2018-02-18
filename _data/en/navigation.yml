@@ -44,12 +44,16 @@
 - title: ABOUT
   url: /
   sublinks:
-#   - title: ABOUT
-#     url: /
+    - title: OVERVIEW
+      url: /overview
     - title: DELIVERABLES
       url: /deliverables
+    - title: CONSORTIUM
+      url: /consortium
     - title: PRIVACY ON OPENCARE
       url: /privacy
+    - title: RESOURCES
+      url: /resources
     - title: OPENVILLAGE
       url: http://festival.edgeryders.eu/
     - title: PLAYBOOK
