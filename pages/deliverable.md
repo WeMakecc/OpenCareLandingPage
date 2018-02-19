@@ -12,18 +12,9 @@ permalink: deliverable/
 
 This page enlists all the deliverables produced in the context of the [opencare.cc](http://opencare.cc/) project (January 2016 - December 2017), funded by the Horizon 2020 framework programme.
 
-##Download
+## Download
 
-You can download the full [ZIP here](https://github.com/opencarecc/opencareProjectDeliverables/archive/master.zip).
-
-## open by design
-
-opencare deliverables - all being labeled with a public dissemination level - are disclosed on our website to the attention to the [European / world] citizens.
-
-By doing so, we are fully compliant with the terms determined by our funding agreement (*Article 29.1 Obligation to disseminate results, Horizon 2020 Grant Agreement model*), and above all, with the spirit, which initiated and animated the opencare project.
-
-**These deliverables have been ideated and designed by the opencare consortium to allow people, communities and policy-makers to get inspired, fork, enhance or tailor to their very specific needs the research results we produced over these two years.**
-
+You can download the Project Deliverable ZIP folder [ here](https://github.com/opencarecc/opencareProjectDeliverables/archive/master.zip).
 
 ## List of deliverables
 
@@ -83,5 +74,12 @@ Ethics requirements 3
 Ethics requirements 4
 Ethics requirements 5
 
-
 To get to know more of the project’s implementation, please read our [proposal](https://drive.google.com/open?id=0BxnwAmGNB9t9NVRtZUlZZGRtUW8)!
+
+## open by design
+
+opencare deliverables - all being labeled with a public dissemination level - are disclosed on our website to the attention to the [European / world] citizens.
+
+By doing so, we are fully compliant with the terms determined by our funding agreement (*Article 29.1 Obligation to disseminate results, Horizon 2020 Grant Agreement model*), and above all, with the spirit, which initiated and animated the opencare project.
+
+These deliverables have been ideated and designed by the opencare consortium to allow people, communities and policy-makers to get inspired, fork, enhance or tailor to their very specific needs the research results we produced over these two years.
