@@ -6,10 +6,24 @@
 
 - title: MAIN EVENTS
   url: /
+  sublinks:
     - title: OPENVILLAGE
       url: http://festival.edgeryders.eu/
     - title: CONFERENCE
       url: /conference
+      sublinks:
+        - title: PROGRAM
+          url: /conference
+        - title: CONFERENCE LIVE
+          url: /conference/live
+        - title: CONFERENCE DOCUMENTATION
+          url: /conference/documentation
+        - title: DIGITAL KIT
+          url: /conference/digitalkit
+        - title: CALL FOR SOLUTIONS
+          url: /callforsolutions
+        - title: ORGANIZER
+          url: /conference/organizer
 
 - title: CONFERENCE
   url: /conference
