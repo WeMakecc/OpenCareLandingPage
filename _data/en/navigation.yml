@@ -5,7 +5,7 @@
 #      url: /conference
 
 - title: MAIN EVENTS
-  url: /
+  url:
   sublinks:
     - title: OPENVILLAGE
       url: http://festival.edgeryders.eu/
@@ -13,7 +13,7 @@
       url: /conference
 
 - title: CONFERENCE
-  url: /conference
+  url:
   sublinks:
     - title: PROGRAM
       url: /conference
@@ -29,7 +29,7 @@
       url: /conference/organizer
 
 - title: PROJECTS
-  url: /projects
+  url:
   sublinks:
     - title: INPE
       url: http://inpe.opencare.cc/
@@ -53,7 +53,7 @@
 #      url: http://wehandu.opencare.cc/
 
 - title: ABOUT
-  url: /
+  url: 
   sublinks:
     - title: OVERVIEW
       url: /overview
