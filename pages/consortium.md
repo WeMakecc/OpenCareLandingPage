@@ -64,13 +64,13 @@ SCImPULSE Foundation was created in 2013 as the culmination of a year long conve
 
 The project proposal involved two Divisions of the City of Milan, who have already had the opportunity to cooperate on cross-cutting objectives:
 
-● Economic Development, Innovation, University and Smart City Division
+- Economic Development, Innovation, University and Smart City Division
 
-● Social Policies and Health Culture Division
+- Social Policies and Health Culture Division
 
-**Labour Policies, Economic Development, Innovation and Universities **(Counsillor Cristina Tajani) is responsible for promoting the smart development of the city as an important step towards economic growth and employment, to attract resources giving rise to development, innovation and social integration in Milan. Since 2014 the Department is working on the development of a "Smart City strategy" with the cooperation of other local entities, universities, enterprises and citizens for a more technological, interconnected, sustainable and inclusive city. [http://www.milanosmartcity.org/joomla/](http://www.milanosmartcity.org/joomla/)
+Labour Policies, Economic Development, Innovation and Universities** (Councillor Cristina Tajani) is responsible for promoting the smart development of the city as an important step towards economic growth and employment, to attract resources giving rise to development, innovation and social integration in Milan. Since 2014 the Department is working on the development of a "Smart City strategy" with the cooperation of other local entities, universities, enterprises and citizens for a more technological, interconnected, sustainable and inclusive city. [http://www.milanosmartcity.org/joomla/](http://www.milanosmartcity.org/joomla/)
 
-**Social Policies and Health Culture **(Councillor Pierfrancesco Majorino) is in charge of the implementation and delivery of services and supports targeted to the most vulnerable groups.
+Social Policies and Health Culture (Councillor Pierfrancesco Majorino) is in charge of the implementation and delivery of services and supports targeted to the most vulnerable groups.
 
 As public resources are reduced and the social problems increasing, the promotion of new patterns of sociability can transform some problematic issues into opportunities and, at the same time, supporting others in a less painful perspective, freeing resources for the deep fragility which, in turn, will be included in a social fabric more able to tackle it with the necessary attention.
 

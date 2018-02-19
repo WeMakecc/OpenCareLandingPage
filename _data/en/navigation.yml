@@ -55,7 +55,7 @@
       url: /deliverable
     - title: RESOURCES
       url: /resources
-    - title: VIDEO
-      url: video
+    # - title: VIDEO
+    #   url: video
     - title: PRIVACY ON OPENCARE
       url: /privacy

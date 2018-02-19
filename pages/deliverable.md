@@ -57,9 +57,9 @@ The project is divided into 6 work packages:
 
 ### WP3 - Prototype community-driven care services
 
-* [D3.1_Co-design_guide](https://github.com/opencarecc/opencareProjectDeliverables/blob/master/WP3/D3.1_Co-design_guide.pdf)
+* [D3.1 Co-designing care services: a practical guide](https://github.com/opencarecc/opencareProjectDeliverables/blob/master/WP3/D3.1_Co-design_guide.pdf)
 
-* [D3.2_Full documentation of all prototypes](https://github.com/opencarecc/opencareProjectDeliverables/blob/master/WP3/D3.2_Full%20documentation%20of%20all%20prototypes.pdf)
+* [D3.2 Full documentation of prototypes](https://github.com/opencarecc/opencareProjectDeliverables/blob/master/WP3/D3.2_Full%20documentation%20of%20all%20prototypes.pdf)
 
 ### WP4 - Design and evaluation of community-based health/social policies at scale
 

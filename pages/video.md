@@ -1,10 +1,10 @@
 ---
 layout: page
 title: video
-published: true
+published: false
 lang: en
 ref: video
-permalink: video
+permalink: video/
 ---
 
 
