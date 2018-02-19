@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Opencare deliverables
-published: true
+published: false
 lang: en
-ref: deliverables
-permalink: deliverables/
+ref: deliverablesOLD
+permalink: deliverablesOLD/
 ---
 
 # Read the opencare deliverables
@@ -80,4 +80,3 @@ On this page you can read all the deliverables issued during the course of the [
 |  WP4 | Edgeryders | Research paper: Using collective intelligence to improve care - an empirical study on best practice in the care sector | Pending |
 |  WP4 | EHFF | Research paper: Integrating community-driven care services in European welfare states | Pending |
 |  WP6 | SCImPULSE | Final ethics report | Pending |
-

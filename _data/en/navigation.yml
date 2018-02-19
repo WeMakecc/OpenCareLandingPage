@@ -1,25 +1,28 @@
-- title: CONFERENCE
-  url: /conference
-  sublinks:
-    - title: PROGRAM
-      url: /conference
-    - title: CONFERENCE LIVE
-      url: /conference/live
-    - title: CONFERENCE DOCUMENTATION
-      url: /conference/documentation
-    - title: DIGITAL KIT
-      url: /conference/digitalkit
-    - title: CALL FOR SOLUTIONS
-      url: /callforsolutions
-    - title: ORGANIZER
-      url: /conference/organizer
+
 #    - title: SPEAKER
 #      url: /conference
 #    - title: EXHIBITION
 #      url: /conference
 
-- title: OPEN RAMPETTE
+- title: MAIN EVENTS
   url: http://rampette.opencare.cc/
+    - title: CONFERENCE
+      url: /conference
+      sublinks:
+        - title: PROGRAM
+          url: /conference
+        - title: CONFERENCE LIVE
+          url: /conference/live
+        - title: CONFERENCE DOCUMENTATION
+          url: /conference/documentation
+        - title: DIGITAL KIT
+          url: /conference/digitalkit
+        - title: CALL FOR SOLUTIONS
+          url: /callforsolutions
+        - title: ORGANIZER
+          url: /conference/organizer
+    - title: OPENVILLAGE
+      url: http://festival.edgeryders.eu/
 
 - title: PROJECTS
   url: /projects
@@ -38,6 +41,8 @@
       url: http://rehub.opencare.cc/
     - title: VOICE INSTRUMENTS
       url: http://voiceinstruments.opencare.cc/
+    - title: PLAYBOOK
+      url: http://makerplaybook.opencare.cc/
 #    - title: WEHANDU
 #      url: http://wehandu.opencare.cc/
 
@@ -46,17 +51,13 @@
   sublinks:
     - title: OVERVIEW
       url: /overview
-    - title: DELIVERABLES
-      url: https://github.com/opencarecc/opencareProjectDeliverables
     - title: CONSORTIUM
       url: /consortium
-    - title: PRIVACY ON OPENCARE
-      url: /privacy
+    - title: DELIVERABLE
+      url: /deliverable
     - title: RESOURCES
       url: /resources
     - title: VIDEO
       url: video
-    - title: OPENVILLAGE
-      url: http://festival.edgeryders.eu/
-    - title: PLAYBOOK
-      url: http://makerplaybook.opencare.cc/
+    - title: PRIVACY ON OPENCARE
+      url: /privacy
