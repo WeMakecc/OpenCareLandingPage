@@ -1,9 +1,3 @@
-
-#    - title: SPEAKER
-#      url: /conference
-#    - title: EXHIBITION
-#      url: /conference
-
 - title: MAIN EVENTS
   url:
   sublinks:
@@ -49,11 +43,9 @@
       url: http://makerplaybook.opencare.cc/
     - title: GRAPHRYDER
       url: http://graphryder.opencare.cc
-#    - title: WEHANDU
-#      url: http://wehandu.opencare.cc/
 
 - title: ABOUT
-  url: 
+  url:
   sublinks:
     - title: OVERVIEW
       url: /overview
