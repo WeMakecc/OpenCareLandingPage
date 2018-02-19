@@ -4,127 +4,17 @@ opencare.cc structure+content for publication
 
 # About
 
-*Opencare s a 1.6M€ project, funded within the Horizon 2020 framework programme for Research and Innovation. *
-
-This project brings a diverse community together - citizens with expert knowledge on health care, social care, service design, digital fabrication, collective intelligence and public policy evaluation.
-
-Opencare relies collective intelligence (online and offline) to design, prototype and evaluate care services by communities, for communities.
-
-We work to rethink care provision, and provide solutions to shift from a top-down to a bottom-up policy.
-
-Using up-to-date technology for network analysis, we foster citizen participation and empowerment through online platforms. Local activities also contribute to bring forward citizen incentives, which will further be prototyped and serve as a common thread for local policy-making.
-
-## Objectives
-
-• Contributing towards care provision reform. Opencare aims at studying on what constitutes best practice in the field of community based collective intelligence projects in the field of care provision, and on how these solutions might be integrated in national social and health care systems.
-
-• Carrying out these activities, we expect to yield a ground-breaking contribution to the European care policy debate. In other terms: enable new technological affordances and hacker culture to make a constructive contribution to public policy.
-
-• The Opencare consortium will develop a software stack to monitor and assist collective intelligence social dynamics in online communities. Most of the conversation around care in the project indeed happens online and we expect it to be large, diverse, and rich. We develop software to help the community make sense by identifying points of consensus and controversy, summarizing, and structuring arguments.
-
-## Opencare in a few keywords
-
-*Digital Social Innovation, Social Welfare, Social Network Analysis, Open Source Software,*
-
-*Open Hardware, Open Design, Public Policies, Online Communities, Collective Intelligence, Participatory Innovation, Knowledge co-creation networks, Collective Awareness Platforms*
+[https://github.com/opencarecc/opencareLandingPage/blob/gh-pages/pages/overview.md](https://github.com/opencarecc/opencareLandingPage/blob/gh-pages/pages/overview.md)
 
 # Consortium
 
-## Who are we?
-
-<table>
-  <tr>
-    <td>University of Bordeaux</td>
-    <td>France (coordinator)</td>
-  </tr>
-  <tr>
-    <td>Edgeryders LBG</td>
-    <td>United Kingdom</td>
-  </tr>
-  <tr>
-    <td>WeMake SRL</td>
-    <td>Italy</td>
-  </tr>
-  <tr>
-    <td>Stockholm School of Economics</td>
-    <td>Sweden</td>
-  </tr>
-  <tr>
-    <td>SCImPULSE Foundation</td>
-    <td>The Netherlands</td>
-  </tr>
-  <tr>
-    <td>City of Milan</td>
-    <td>Italy</td>
-  </tr>
-</table>
-
-
-### University of Bordeaux, FR  
-
-Located in the South-West of France, the University of  Bordeaux (hereafter UBx) is a multidisciplinary University counting about 45.000 students and 5630 staff. UBx offers 245 curricula leading to national degrees and about 35 international master and doctorate programmes (among which 9 got the Erasmus Mundus label). Its cutting-edge research activities are carried out in 70 research departments associated with major research bodies (CNRS, CEA, INSERM and INRA). UBx has been recently rewarded by the French government for its overall campus strategy for excellence.
-
-### Edgeryders, EST
-
-Edgeryders as a company emerged as a spin-off from a Council of Europe / European Commission social cohesion research project of the same name. It is a community-driven not-for-profit open consulting company, providing crowdsourced expert advice and community engagement as a service to corporate and governmental organisations. It develops and deploys community building tools and cutting edge research techniques to detect, aggregate and analyse citizen spotted solutions to key social, economic, ecological and political challenges that societies are faced with.
-
-### WeMake, IT
-
-WeMake is an innovative start-up based in Milan and provides a series of innovative services and training to the creative community of the region in the field of digital and traditional manufacturing, high-value technologies and access to a fully equipped Fab Lab. WeMake is a 250 sq/mt urban multifunctional factory providing open and membership based access to digital fabrication tools. Clearing the difference between prototype and finished object, we foster the development of a new model of designer-producer (maker) and small-scale company by facilitating the engineering phase, the rapid iteration of design solutions, the on-demand production of physical/digital artifacts.
-
-### Stockholm School of Economics, SWE
-
-Stockholm School of Economics (SSE) is one of the leading business schools in Europe. SSE offers bachelors, masters and MBA programs, along with PhD- and executive education programs. SSE's Masters in Management program is ranked no. 33 worldwide by the Financial Times. QS ranks SSE no.26 among universities in the field of economics worldwide. SSE is accredited by EQUIS certifying that all of its main activities, teaching as well as research, are of the highest international standards.
-
-### Scimpulse Foundation, NL
-
-SCImPULSE Foundation was created in 2013 as the culmination of a year long conversation within a community of young researchers from several EU Universities and private enterprises reflecting on the alignment (or lack thereof) of institutional incentive schemes and real world challenges. SF is a public benefit organization, providing scientific brokering within and across complex research and innovation initiatives. It offers incubation and advisory at the startup phase of ambitious, high-risk projects, and offers a platform for the engagement of stakeholders, scientific and social alike. SF contributes to its community by offering also the minimum bureaucratic and financial infrastructure to deal with private and non-institutional funding retaining a project’s independence and seamlessly mixing resources of diverse origins to guarantee a project’s continuity.
-
-### Comune di Milano, IT
-
-The project proposal involved two Divisions of the City of Milan, who have already had the opportunity to cooperate on cross-cutting objectives:
-
-● Economic Development, Innovation, University and Smart City Division
-
-● Social Policies and Health Culture Division
-
-**Labour Policies, Economic Development, Innovation and Universities **(Counsillor Cristina Tajani) is responsible for promoting the smart development of the city as an important step towards economic growth and employment, to attract resources giving rise to development, innovation and social integration in Milan. Since 2014 the Department is working on the development of a "Smart City strategy" with the cooperation of other local entities, universities, enterprises and citizens for a more technological, interconnected, sustainable and inclusive city. [http://www.milanosmartcity.org/joomla/](http://www.milanosmartcity.org/joomla/)
-
-**Social Policies and Health Culture **(Councillor Pierfrancesco Majorino) is in charge of the implementation and delivery of services and supports targeted to the most vulnerable groups.
-
-As public resources are reduced and the social problems increasing, the promotion of new patterns of sociability can transform some problematic issues into opportunities and, at the same time, supporting others in a less painful perspective, freeing resources for the deep fragility which, in turn, will be included in a social fabric more able to tackle it with the necessary attention.
-
-## How do we work together ?
-
-Edgeryders and the University of Bordeaux collaborate in assembling a broad, diverse, open community and forging it into a powerful engine to design care services.
-
-Edgeryders is in charge of community stewardship (by reinforcing the values of collaboration and openness and engaging in respectful, ethical and empathetic community management activities).
-
-The University of Bordeaux takes the lead in deploying their network science expertise to build network analysis-based tools for collective intelligence (while cooperating tightly with Edgeryders).
-
-WeMake, in collaboration with the City of Milan and Edgeryders, takes responsibility for the prototyping activities. WeMake contributes its long experience with interaction design and open hardware, and its centrality in the maker scene.
-
-EHFF takes the lead in re-casting results from the Opencare debate and its prototyping activities into a viable policy in the context of the European model of welfare.
-
-The City of Milan adds to this activity the perspective of a local policy maker, struggling with the very real problems of providing the level of care citizens expect in a time of diminishing resources and fiscal compact. Milan serves as an "internal client", as its own community welfare program (Welfare di tutti) supports many services that could benefit from a participatory redesign exercise.
-
-Finally, SCImPULSE and Edgeryders' Ezio Manzini (a reference for both academic designers and the hacker community) provide domain expertise in, respectively, care provision and service design to all project activities.
+[https://github.com/opencarecc/opencareLandingPage/blob/gh-pages/pages/consortium.md](https://github.com/opencarecc/opencareLandingPage/blob/gh-pages/pages/consortium.md)
 
 # Privacy on opencare
 
-NO CHANGES TO ACTUAL PAGE
+[https://github.com/opencarecc/opencareLandingPage/blob/gh-pages/pages/info_privacy_terms.md](https://github.com/opencarecc/opencareLandingPage/blob/gh-pages/pages/info_privacy_terms.md)
 
 # Resources
-
-HTML to embed - made by openAIRE, lists all publications in open access related to the project: 	
-
-<script type="text/javascript">			<!--			document.write('<div id="oa_widget"></div>');			document.write('<script type="text/javascript" src="https://www.openaire.eu/index.php?option=com_openaire&view=widget&format=raw&projectId=corda__h2020::b596acdfc425a4be660b34c3c06bec33&type=publication"></script>');			-->			</script>
-
-HTML to embed to retrieve open data linked to opencare:
-
-	<script type="text/javascript">			<!--			document.write('<div id="oa_widget"></div>');			document.write('<script type="text/javascript" src="https://www.openaire.eu/index.php?option=com_openaire&view=widget&format=raw&projectId=corda__h2020::b596acdfc425a4be660b34c3c06bec33&type=dataset"></script>');			-->			</script>
-
-Source: [https://www.openaire.eu/search/project?projectId=corda__h2020::b596acdfc425a4be660b34c3c06bec33](https://www.openaire.eu/search/project?projectId=corda__h2020::b596acdfc425a4be660b34c3c06bec33)
 
 ## Abstract
 
@@ -134,87 +24,61 @@ Source: [https://www.openaire.eu/search/project?projectId=corda__h2020::b596acdf
 
 ## Publications
 
-**_List as of 2017 (see _****_[publication pla_**n](https://docs.google.com/document/d/10pHYTozwZczmCle0mJrvxOX5AcXOX1eLU_I8kHXOXm4/edit?usp=sharing)**_):_**
+### Retrieve opencare’s publications and datasets
 
-### Peer-reviewed and published
+#### On openAIRE:
 
-Cottica, Alberto, Guy Melançon, and Benjamin Renoust. "Testing for the signature of policy in online communities." Complex Networks & Their Applications V, 693, Springer, pp.41 - 54, 2016, Studies in Computational Intelligence, 978-3-319-50900-6. <10.1007/978-3-319-50901-3 4>.
+[https://www.openaire.eu/search/project?projectId=corda__h2020::b596acdfc425a4be660b34c3c06bec33](https://www.openaire.eu/search/project?projectId=corda__h2020::b596acdfc425a4be660b34c3c06bec33)
 
-DOI: 10.1007/978-3-319-50901-3
+#### On Zenodo:
 
-Sanandaji, T.; & Lakomaa, E. "Care, Commons and Entrepreneurship". 2016:2 SSE, Working papers in Economic History, SSE, Stockholm, p.28
+[https://zenodo.org/search?page=1&size=20&q=opencare](https://zenodo.org/search?page=1&size=20&q=opencare)
 
-DOI: **10.13140/RG.2.2.22643.12321**
+### Publications related to Semantic Social Network Analysis and Ethnography
 
-### Peer reviewed
+#### [Semantic social networks: a new approach to scaling digital ethnography](https://zenodo.org/record/1059029#.WoroJ6jOWUk)
 
-Alberto Cottica, Jason Villet, Amelia Hassoun, and Guy Melançon. "Semantic social networks: a new approach to scaling digital ethnography". Internet Science Conference 2017. DOI 10.5281/zenodo.832464
+Cottica, Alberto; Hassoun, Amelia; Vallet, Jason; Melançon, Guy (2017)
 
-Aka "the speculative methodology paper". We propose a data-based approach to doing ethnographic research in a digital environment. Submitted to INSCI conference 2017: [http://www.internetscienceconference.eu/](http://www.internetscienceconference.eu/). Accepted.
+#### [Collective autonomy. An ethnography of open care services.](https://zenodo.org/record/1123467#.WoroSqjOWUk)
 
-### In the pipeline
+Hassoun, Amelia (2017)
 
-**Comparing data collection/processing in digital ethnography**
+#### [Testing for the signature of policy in online communities](https://link.springer.com/chapter/10.1007%2F978-3-319-50901-3_4)
 
-*Anders Munk, Guy Melançon, Alberto Cottica, Amelia Hassoun*
+Cottica, Alberto; Melançon, Guy; Renoust, Benjamin (2016)
 
-We work with Anders Munk and some dataset from his extensive collection. We induce code co-occurrences networks from his data and ours, and we compare the networks.
+#### [Online community management as social network design: testing for the signature of management activities in online communities](https://appliednetsci.springeropen.com/articles/10.1007/s41109-017-0049-9)
 
-**Online community management as social network design: testing for the signature of management activities in online communities**
+Cottica, Alberto; Melançon, Guy; Renoust, Benjamin
 
-*Alberto Cottica, Guy Melançon, Benjamin Renoust*
+### Publications addressing policy-making for the re-design of care services
 
-Testing for the mathematical footprint of some online community management techniques.
 
-Presented at Complex Networks conference 2016. Published in Studies of Computational Intelligence. Extended version invited for submission to Applied Network Science. Submitted, received requests for changes by reviewers, re-submitted.
 
-**Digitalization, Collective Intelligence and Entrepreneurship in the Care Sector **
+#### [La finance et le soin : gouvernance, systèmes mutualistes et répartition du risque](https://zenodo.org/record/1066858#.WoromKjOWUk)
 
-*Erik Lakomaa*
+Liebart, Deborah; Manca, Marco (2017)
 
-Chapter in Andersson, Movin, Mähring, Teigland & Wennberg 2017 "Managing digital transformation" Stockholm: SIR (to be published January 2017).
+#### [Community driven care. A draft social contract](https://zenodo.org/record/1161691#.WorotKjOWUk)
 
-On the concept of "open care" and its value to research on digitalization and for public sector innovation and renewal. The chapter will address the following questions:
+Liebart, Deborah; Manca, Mara; Wong, Susana; Abdallah, Ali; Manca, Marco (2017)
 
-- Under what circumstances will open care projects emerge?
+#### [Care, Commons and Entrepreneurship](https://swopec.hhs.se/haechi/abs/haechi2016_002.htm)
 
-- What formal and informal institutions facilitate the emergence of "open care"?
+Tino Sanandaji, Erik Lakomaa (2016)
 
- - To what extent can open care be a solution for future challenges in care (e.g. equity, cost inflation, rising demand)?
+#### [Can Community Driven Care be integrated in the European Welfare System? Institutional Challenges and Historical Lessons.](https://swopec.hhs.se/haechi/abs/haechi2017_003.htm)
 
--When is open care solutions  "scalable"?
+Erik Lakomaa, Tino Sanandaji (2017)
 
-**Community driven provision of care, evaluation and policy: Cases in Open Care**
+#### [Integrating community driven care service in European welfare states – nonprofit institutional entrepreneurship as driver for expanding access](https://swopec.hhs.se/haechi/abs/haechi2017_005.htm)
 
-*Tino Sanandaji and Erik Lakomaa*
-
-On historical and contemporary examples of open care. To be published as Working Paper in the SSE Working papers in Economic History (and later, in revised form also in a journal).
-
-**Community-Based**** Care**
-
-*Amelia Hassoun*
-
-Anthropological analysis of Open Care findings. How do people find health and social care when existing systems have failed them? According to a year of ethnographic research on Open Care, through communities who work both inside and outside existing systems to care for each other in times of crisis. Findings show that the most precious healthcare resource is other people (relates to DM’s point about the cell phone).
-
-Target Journal: Either Hau: Journal of Ethnographic Theory or Cultural Anthropology (both Open Access, both top 20 in anthro journals)
-
-### Interdisciplinary Journals
-
-New Media and Society: [http://journals.sagepub.com/home/nms](http://journals.sagepub.com/home/nms)
-
-Social Networks: [https://www.journals.elsevier.com/social-networks/](https://www.journals.elsevier.com/social-networks/)
-
-### Possible conferences
-
-[Complex Networks 2017](http://www.complexnetworks.org/) Deadline: September 4th
+Erik Lakomaa, Tino Sanandaji (2017)
 
 ## Events
 
-List as of 2016 (read [table for reporting 2016](https://docs.google.com/spreadsheets/d/1JBWTrG2uSE50rk_Fy9ihSccJILyngq4A14TTdS0OBO4/edit#gid=0)):
-
 ### Communication campaigns
-
-* Skype call with team to tighten up engagement activities
 
 * [Crowdconference to tweet and share OpenandChange](https://edgeryders.eu/en/op3ncare-community-groupnode/openandchange-world-tour): 20/09/2016
 
@@ -392,30 +256,6 @@ List as of 2016 (read [table for reporting 2016](https://docs.google.com/spreads
 
 * [In Pe' - an open source wearable device that can detect fall and call for emergency](http://inpe.opencare.cc/): 19/10/2016
 
-## Presentations
-
-**(random list, has to be sorted out + dates to indicate)**
-
-* Opencare leaflet
-
-* Opencare fact sheet
-
-* Mare Urbano Nov 2016
-
-* Poster DSI Fair Rome 2017
-
-* Innovation Day UBx
-
-* Openvillage 2017
-
-* Tech review 2016
-
-* Final event Milano 2017
-
-* 20 relevant post ? (read deliverable wp2 - 20 high-quality blog posts)+ expand
-
-* New content? Long blogpost?
-
 # Videos on opencare
 
 ## What is opencare ?
@@ -454,13 +294,44 @@ List as of 2016 (read [table for reporting 2016](https://docs.google.com/spreads
 
 # Deliverables
 
-Official - ( with working links!!)
+[https://github.com/opencarecc/opencareLandingPage/blob/gh-pages/pages/deliverable.md](https://github.com/opencarecc/opencareLandingPage/blob/gh-pages/pages/deliverable.md)
+
+
+
+
+
+
+* [D4.1 Review of literature of collective intelligence in care services](https://github.com/opencarecc/opencareProjectDeliverables/blob/master/WP4/D4.1%20Review%20of%20literature%20of%20collective%20intelligence%20in%20care%20services.pdf)
+
+* [D4.2 Survey design](https://github.com/opencarecc/opencareProjectDeliverables/blob/master/WP4/D4.2%20Survey%20design.pdf)
+
+
+
+* [D5.1 White papers user task and requirements data abstractions and operations requirements](https://github.com/opencarecc/opencareProjectDeliverables/blob/master/WP5/D5.1%20White%20papers%20user%20task%20and%20requirements%20data%20abstractions%20and%20operations%20requirements.pdf)
+
+* [D5.2 Toolbox for developing network-based software for collective intelligence](https://github.com/opencarecc/opencareProjectDeliverables/blob/master/WP5/D5.2%20Toolbox%20for%20developing%20network-based%20software%20for%20collective%20intelligence.pdf)
+
+* [D5.3 Implementation and integration of the semi-automated aid to ethnographic coding prototype into the OpenCare platform](https://github.com/opencarecc/opencareProjectDeliverables/blob/master/WP5/D5.3%20Implementation%20and%20integration%20of%20the%20semi-automated%20aid%20to%20ethnographic%20coding%20prototype%20into%20the%20OpenCare%20platform.pdf)
+
+* [D5.4 Implementation and integration of SSNA software prototypes into a dashboard environment incorporating the research on semantic networks](https://github.com/opencarecc/opencareProjectDeliverables/blob/master/WP5/D5.4%20Implementation%20and%20integration%20of%20SSNA%20software%20prototypes%20into%20a%20dashboard%20environment%20incorporating%20the%20research%20on%20semantic%20networks.pdf)
+
+* [D6.1 Consent funnel for the project platform](https://github.com/opencarecc/opencareProjectDeliverables/blob/master/WP6/D6.1%20Consent%20funnel%20for%20the%20project%20platform.pdf)
+
+* [D6.2 Periodic report 1](https://github.com/opencarecc/opencareProjectDeliverables/blob/master/WP6/D6.2%20Periodic%20report%201.pdf)
+
+* [D6.3 Periodic report 2](https://github.com/opencarecc/opencareProjectDeliverables/blob/master/WP6/D6.3%20Periodic%20report%202.pdf)
+
+* [D6.4 Final report](https://github.com/opencarecc/opencareProjectDeliverables/blob/master/WP6/D6.4%20Final%20report.pdf)
+
+* [D6.5 Ethics interim evaluation and guidance report](https://github.com/opencarecc/opencareProjectDeliverables/blob/master/WP6/D6.5%20Ethics%20interim%20evaluation%20and%20guidance%20report.pdf)
+
+* [D6.6 Final ethics report](https://github.com/opencarecc/opencareProjectDeliverables/blob/master/WP6/D6.6%20Final%20ethics%20report.pdf)
 
 # Playbook
 
 Static page with the list of curated content + relevant for the general public deliverable
 
-# Maker Playbook (wemake)
+# Maker Playbook
 
 Link to the gitbook page
 
