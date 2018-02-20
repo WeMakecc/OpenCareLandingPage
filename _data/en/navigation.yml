@@ -1,48 +1,11 @@
-- title: MAIN EVENTS
-  url:
-  sublinks:
-    - title: OPENVILLAGE
-      url: http://festival.edgeryders.eu/
-    - title: CONFERENCE
-      url: /conference
-
 - title: CONFERENCE
-  url:
-  sublinks:
-    - title: PROGRAM
-      url: /conference
-    - title: CONFERENCE LIVE
-      url: /conference/live
-    - title: CONFERENCE DOCUMENTATION
-      url: /conference/documentation
-    - title: DIGITAL KIT
-      url: /conference/digitalkit
-    - title: CALL FOR SOLUTIONS
-      url: /callforsolutions
-    - title: ORGANIZER
-      url: /conference/organizer
+  url: /conference
+  
+- title: OPENVILLAGE
+  url: http://festival.edgeryders.eu/
 
 - title: PROJECTS
-  url:
-  sublinks:
-    - title: INPE
-      url: http://inpe.opencare.cc/
-    - title: OPEN RAMPETTE
-      url: http://rampette.opencare.cc/
-    - title: MAKER IN RESIDENCE
-      url: /makerinresidence
-    - title: ALLERGOKI
-      url: http://allergoki.opencare.cc/
-    - title: BREATHING GAMES
-      url: http://breathinggames.opencare.cc/
-    - title: REHUB
-      url: http://rehub.opencare.cc/
-    - title: VOICE INSTRUMENTS
-      url: http://voiceinstruments.opencare.cc/
-    - title: PLAYBOOK
-      url: http://makerplaybook.opencare.cc/
-    - title: GRAPHRYDER
-      url: http://graphryder.opencare.cc
+  url: /projects
 
 - title: ABOUT
   url:

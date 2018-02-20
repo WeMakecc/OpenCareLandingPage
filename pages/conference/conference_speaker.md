@@ -4,5 +4,5 @@ title: speaker
 published: true
 lang: en
 ref: speaker
-permalink: speaker/
+permalink: conference/speaker/
 ---
