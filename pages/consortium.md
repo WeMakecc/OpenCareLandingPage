@@ -34,7 +34,7 @@ permalink: consortium
     <td>The Netherlands</td>
   </tr>
   <tr>
-    <td>[City of Milan](https://www.comune.milano.it/wps/portal/ist/en)</td>
+    <td>[City of Milan](https://www.comune.milano.it/)</td>
     <td>Italy</td>
   </tr>
 </table>
