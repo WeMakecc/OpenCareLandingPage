@@ -11,33 +11,12 @@ permalink: consortium
 # Consortium
 
 ## Who are we?
-
-<table>
-  <tr>
-    <td>[University of Bordeaux](https://www.u-bordeaux.fr/)</td>
-    <td>France (coordinator)</td>
-  </tr>
-  <tr>
-    <td>[Edgeryders LBG](http://edgeryders.eu/)</td>
-    <td>United Kingdom</td>
-  </tr>
-  <tr>
-    <td>[WeMake SRL](http://wemake.cc/)</td>
-    <td>Italy</td>
-  </tr>
-  <tr>
-    <td>[Stockholm School of Economics](https://www.hhs.se/)</td>
-    <td>Sweden</td>
-  </tr>
-  <tr>
-    <td>[SCImPULSE Foundation](http://www.scimpulse.org/)</td>
-    <td>The Netherlands</td>
-  </tr>
-  <tr>
-    <td>[City of Milan](https://www.comune.milano.it/)</td>
-    <td>Italy</td>
-  </tr>
-</table>
+* [University of Bordeaux](https://www.u-bordeaux.fr/) France (coordinator)
+* [Edgeryders LBG](http://edgeryders.eu/) United Kingdom
+* [WeMake SRL](http://wemake.cc/) Italy
+* [Stockholm School of Economics](https://www.hhs.se/) Sweden
+* [SCImPULSE Foundation](http://www.scimpulse.org/) The Netherlands
+* [City of Milan](https://www.comune.milano.it/) Italy
 
 
 ### University of Bordeaux, FR  
