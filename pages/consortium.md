@@ -14,27 +14,27 @@ permalink: consortium
 
 <table>
   <tr>
-    <td>University of Bordeaux</td>
+    <td>[University of Bordeaux](https://www.u-bordeaux.fr/)</td>
     <td>France (coordinator)</td>
   </tr>
   <tr>
-    <td>Edgeryders LBG</td>
+    <td>[Edgeryders LBG](http://edgeryders.eu/)</td>
     <td>United Kingdom</td>
   </tr>
   <tr>
-    <td>WeMake SRL</td>
+    <td>[WeMake SRL](http://wemake.cc/)</td>
     <td>Italy</td>
   </tr>
   <tr>
-    <td>Stockholm School of Economics</td>
+    <td>[Stockholm School of Economics](https://www.hhs.se/)</td>
     <td>Sweden</td>
   </tr>
   <tr>
-    <td>SCImPULSE Foundation</td>
+    <td>[SCImPULSE Foundation](http://www.scimpulse.org/)</td>
     <td>The Netherlands</td>
   </tr>
   <tr>
-    <td>City of Milan</td>
+    <td>[City of Milan](https://www.comune.milano.it/wps/portal/ist/en)</td>
     <td>Italy</td>
   </tr>
 </table>
