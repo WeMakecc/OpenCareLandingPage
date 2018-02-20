@@ -11,9 +11,9 @@ permalink: wp3-overview
 
 ![](assets/WP3 - Prototype community-driven care services.jpg)
 
-- [playbook D3.1](https://github.com/opencarecc/opencareProjectDeliverables/blob/master/WP3/D3.1_Co-design_guide.pdf)
 - [local engagement](http://wemake.cc/opencare/)
 - [online activities](http://wemake.cc/opencare/)
+- [playbook D3.1](https://github.com/opencarecc/opencareProjectDeliverables/blob/master/WP3/D3.1_Co-design_guide.pdf)
 - playbooks
   - [ maker playbook](http://makerplaybook.opencare.cc/)
   - [ microwebsite wiki guide](https://github.com/opencarecc/MicroWebsiteTemplate/wiki)

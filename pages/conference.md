@@ -10,6 +10,8 @@ permalink: conference/
 # Digital Social Innovation and the future of Care
 
 - ### [CONFERENCE DOCUMENTATION](/conference/documentation)
+- ### [CONFERENCE VISUAL NOTES](/conference/visualnotes)
+- ### [CONFERENCE VIDEOS](/conference/documentation)
 - ### [PROGRAM](/conference/program)
 - ### [DIGITAL KIT](/conference/digitalkit)
 - ### [CONFERENCE LIVE](/conference/live)
