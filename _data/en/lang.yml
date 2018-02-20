@@ -19,7 +19,7 @@ header:
   buttons:
     - text: "SHARE YOUR EXPERIENCE"
       link: "https://edgeryders.eu/c/opencare"
-    
+
 # dictionary keys for video.html include file
 video:
   title: ""
@@ -138,7 +138,7 @@ partners:
 # ------------------------------
 # dictionary keys for footer.html include file
 footer:
-  credits_line_html: "is maintained by <a href='https://opencare.cc'>opencarecc</a>"
+  credits_line_html: "is maintained by <a href='http://wemake.cc'>WeMake</a>"
   eu_agreement_line: "This project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No 688670"
 
 # -------------------------------
