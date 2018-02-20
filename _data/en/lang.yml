@@ -19,9 +19,7 @@ header:
   buttons:
     - text: "SHARE YOUR EXPERIENCE"
       link: "https://edgeryders.eu/c/opencare"
-    - text: "READ THE EU PROPOSAL"
-      link: "https://edgeryders.eu/t/opencare-proposal/4860"
-
+    
 # dictionary keys for video.html include file
 video:
   title: ""
