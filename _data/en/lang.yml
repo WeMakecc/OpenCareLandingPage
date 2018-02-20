@@ -17,14 +17,14 @@ header:
   title: "<img src='assets/OC-Logo-color-homeheader.svg'><span style='color:#2D9ED3;'>open</span><span>care</span>"
   tagline: "A community working to make open and collaborative health and care solutions"
   buttons:
-    - text: "SHARE YOUR STORY"
+    - text: "SHARE YOUR EXPERIENCE"
       link: "https://edgeryders.eu/c/opencare"
     - text: "READ THE EU PROPOSAL"
       link: "https://edgeryders.eu/t/opencare-proposal/4860"
 
 # dictionary keys for video.html include file
 video:
-  title: "MORE INFO"
+  title: ""
   url: "https://player.vimeo.com/video/162811723?byline=0&portrait=0"
   description: ""
   link: ""
