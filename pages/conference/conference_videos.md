@@ -74,15 +74,15 @@ permalink: conference/videos
 - Keynote speaker:
 
 - **Annibale D’Elia** City of Milan
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XwXFLXrnFYI?start=213" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
-
-
 - Contribution :
 
     - **Stefano Micelli** Università Ca’ Foscari di Venezia
     - **Cecilia Manzo** Università di Firenze
     - **Marco Taisch** Politecnico di Milano
+
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XwXFLXrnFYI?start=213" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
 - Wrap-up:
 

@@ -17,11 +17,15 @@ permalink: conference/visualnotes
  - **Cristina Tajani** City of Milan
  - **Roberto Costantini** Milano Luiss Hub for Makers and Students
 
+- [video](https://www.youtube.com/watch?v=2ooZKKAA4os?start=15)
+
 ![](/assets/visualnotes/010 22_11_welcome&agenda.png)
 
 ### **opencare, a CAPSSI project: an overview**
 
- - **Renato Galliano** City of Milan
+- **Renato Galliano** City of Milan
+
+- [video](https://www.youtube.com/watch?v=b_BbswzRJpg)
 
  ![](/assets/visualnotes/020 22_11_opencareoverview.png)
 
@@ -29,7 +33,9 @@ permalink: conference/visualnotes
 
  - **Loretta Anania** Programme Officer, DG Communication Networks Content and Technologies, Next Generation Internet Unit, European Commission
 
- <iframe width="560" height="315" src="https://www.youtube.com/embed/oImeZkkJBx4" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+- [video](https://www.youtube.com/watch?v=oImeZkkJBx4)
+
+![](/assets/visualnotes/030 22_11_NGI.png)
 
 ### **From Collective Intelligence to Social Innovation**
 
@@ -40,7 +46,10 @@ permalink: conference/visualnotes
   - **Olivier De Fresnoye** Echopen project
   - **Winnie Poncelet / Anthony Di Franco** Open Insuline project
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XyVIidO6nq0?start=5" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+- [video](https://www.youtube.com/watch?v=XyVIidO6nq0?start=5)
+
+ ![](/assets/visualnotes/040 22_11_collectiveintelligence_socialinnovaion.png)
+
 
 ### **Cities as Platforms for Open Innovation**
 
@@ -54,21 +63,23 @@ permalink: conference/visualnotes
   - **Carolina Pacchi**  Polytechnic of Milan  / Civic crowdfunding and citizen-led micro-regeneration in Milan and in European cities
   - **Cosimo Palazzo** City of Milan / WeMi as a digital/physical platform to reconnect care solutions with societal need
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-tP3r4pWNHY" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+- [video](https://www.youtube.com/watch?v=-tP3r4pWNHY)
+
+![](/assets/visualnotes/050 22_11_citiesasplatforms.png)
+
 
 ###	**Final remarks**
 
 - **Zoe Romano** WeMake
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w4r4bLnVGbM" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+- [video](https://www.youtube.com/watch?v=w4r4bLnVGbM)
 
-###	**Call for solutions Open Innovation for Community Care Exhibition**
+![](/assets/visualnotes/060 22_11_finalremarks.png)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eLtmbmNdaKk" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
 ---
 
-## <a name="23nov"></a> 23rd November | **New Urban Economies and Care**
+## **New Urban Economies and Care**
 
 ###	**New Urban Economies and Digital Manufacturing: City of Milan’s vision**
 
@@ -76,33 +87,39 @@ permalink: conference/visualnotes
 
 - **Annibale D’Elia** City of Milan
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XwXFLXrnFYI?start=213" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
-
-
 - Contribution :
 
     - **Stefano Micelli** Università Ca’ Foscari di Venezia
     - **Cecilia Manzo** Università di Firenze
     - **Marco Taisch** Politecnico di Milano
 
-- Wrap-up:
 
-- **Cristina Tajani** City of Milan
+- [video](https://www.youtube.com/watch?v=XwXFLXrnFYI?start=213)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9VbRkSFPNwA" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+![](/assets/visualnotes/070 23_11_newurbaneconomies_01.png)
+
+![](/assets/visualnotes/070 23_11_newurbaneconomies_02.png)
+
+![](/assets/visualnotes/070 23_11_newurbaneconomies_03.png)
 
 ###	**Make to Care: an emerging innovation ecosystem**
 
 - **Stefano Maffei** Politecnico di Milano
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hMfdCjpwV0w?start=40" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+- [video](https://www.youtube.com/watch?v=hMfdCjpwV0w?start=40)
+
+![](/assets/visualnotes/080 23_11_maketocare.png)
+
 
 ### **From care services to care as an open system: opencare’s perspective**
 
 - **Rossana Torri** City of Milan
 - **Costantino Bongiorno** WeMake
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0miPcqDDtKs" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+- [video](https://www.youtube.com/watch?v=0miPcqDDtKs)
+
+![](/assets/visualnotes/090 23_11_fromcareservicestocareasanopensystem.png)
+
 
 ###	**Economies of care and innovation**
 
@@ -114,12 +131,10 @@ permalink: conference/visualnotes
   - **Gaela Bernini** Fondazione Bracco
   - **Angela Simone**, Fondazione Giannino Bassetti - SMART-map
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S7eOtYxqlb8?start=30" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+- [video](https://www.youtube.com/watch?v=S7eOtYxqlb8?start=30)
 
-###	**An introduction to the exhibitions**
+![](/assets/visualnotes/100 23_11_economiesofcare.png)
 
-- **Fabrizio Marta** Rotellando, **Liat Rogel** Naba
-- **Davide Crippa** curatore della mostra "Secondo Nome: Huntington"
 
 ###	**Rethinking care systems**
 
@@ -133,16 +148,20 @@ Rethinking care systems for people and with people, with the help of digital fab
   - **Antonia Madella / Cristina Dornini**, Together To Go, Project UNICO
   - **Antonella Bertolotti** Fondazione Cariplo - Codesign for Rehabilitation and Wellbeing - CReW
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nZhjgZTaTjU?start=15" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+- [video](https://www.youtube.com/watch?v=nZhjgZTaTjU?start=15)
+
+![](/assets/visualnotes/110 23_11_rethinkingcaresystems_01.png)
+
+
+![](/assets/visualnotes/110 23_11_rethinkingcaresystems_02.png)
 
 ###	**Final remarks**
 
  - **Marianna D’Ovidio** Università degli Studi di Bari
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tZ07_75NP1o?start=10" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+- [video](https://www.youtube.com/watch?v=tZ07_75NP1o?start=10)
 
-### **Call for Solutions Pitch and Awards**
-- 3 Minutes-Pitch and Projects Awards
+![](/assets/visualnotes/120 23_11_finalremarks.png)
 
 ---
 

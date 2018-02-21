@@ -11,7 +11,7 @@ permalink: conference/
 
 - ### [CONFERENCE DOCUMENTATION](/conference/documentation)
 - ### [CONFERENCE VISUAL NOTES](/conference/visualnotes)
-- ### [CONFERENCE VIDEOS](/conference/documentation)
+- ### [CONFERENCE VIDEOS](/conference/videos)
 - ### [PROGRAM](/conference/program)
 - ### [DIGITAL KIT](/conference/digitalkit)
 - ### [CONFERENCE LIVE](/conference/live)
