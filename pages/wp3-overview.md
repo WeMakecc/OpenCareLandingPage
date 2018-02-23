@@ -27,7 +27,7 @@ permalink: wp3-overview
   - [Rehub](http://rehub.opencare.cc/)
   - [Voice Instruments](http://voiceinstruments.opencare.cc/)
 - online tools
-  - repository architecture
+  - [repository architecture](https://wemakecc.gitbooks.io/d3-2-full-documentation-of-all-prototypes/content/chapter-1/content-architecture.html)
   - [microwebsite template](https://github.com/opencarecc/MicroWebsiteTemplate)
   - [gitbooktemplate](https://github.com/WeMakecc/gitbook-template)
   - [opencareLandingPage](https://github.com/opencarecc/opencareLandingPage)
