@@ -14,12 +14,12 @@ permalink: wp3-overview
 - [local engagement](http://wemake.cc/opencare/)
 - [online activities](http://wemake.cc/opencare/)
 - [playbook D3.1 [pdf]](https://github.com/opencarecc/opencareProjectDeliverables/blob/master/WP3/D3.1_Co-design_guide.pdf)
-- playbooks
+- playbooks:
   - [ maker playbook [gitbook]](http://makerplaybook.opencare.cc/)
   - [ microwebsite wiki guide](https://github.com/opencarecc/MicroWebsiteTemplate/wiki)
   - [maker acceleration program [gitbook] ](https://wemakecc.gitbooks.io/makeraccelerationprogram_v0_2/content/)
   - [ Full documentation of all prototypes D3.2 [pdf] ](https://github.com/opencarecc/opencareProjectDeliverables/blob/master/WP3/D3.2_Full%20documentation%20of%20all%20prototypes.pdf)[ [gitbook]](https://wemakecc.gitbooks.io/d3-2-full-documentation-of-all-prototypes/content/)
-- [projects](/projects)
+- [projects:](/projects)
   - [InPe](http://inpe.opencare.cc/)
   - [open rampette](http://rampette.opencare.cc/)
   - [maker in residence](/makerinresidence)
