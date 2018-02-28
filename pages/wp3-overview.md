@@ -1,9 +1,9 @@
 ---
 layout: page
-title: projects
+title: wp3-overview
 published: true
 lang: en
-ref: wp3
+ref: wp3-overview
 permalink: wp3-overview
 ---
 
