@@ -34,3 +34,7 @@ permalink: wp3-overview
   - [gitbooktemplate](https://github.com/WeMakecc/gitbook-template)
   - [opencareLandingPage](https://github.com/opencarecc/opencareLandingPage)
   - [opencareStyleGuide](https://github.com/opencarecc/opencareStyleGuide)
+
+--- 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSilKIVbDFkhDtWI5XdlQFfMZO196w6Em7pSUoyBJmLTYCccdLK6s7DjB7oBby_ZwSITqtbx4LPhozt/embed?start=false&loop=true&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+---
