@@ -69,7 +69,7 @@ The project is divided into 6 work packages:
 
 * [D4.4 Research paper - Accountability and ownership in community-led welfare innovation: its potential role in EU policies](https://github.com/opencarecc/opencareProjectDeliverables/blob/master/WP4/D4.4%20Research%20paper%20-%20Accountability%20and%20ownership%20in%20community-led%20welfare%20innovation:%20its%20potential%20role%20in%20EU%20policies.pdf)
 
-* [D4.5 Community-driven care a draft](https://github.com/opencarecc/opencareProjectDeliverables/blob/master/WP4/D4.5%20Community-driven%20care%20a%20draft.pdf)
+* [D4.5 Community-driven care - a draft social contract](https://github.com/opencarecc/opencareProjectDeliverables/blob/master/WP4/D4.5%20Community-driven%20care%20a%20draft%20social%20contract.pdf)
 
 * [D4.6 Research paper - Using collective intelligence to improve care - an empirical study on best practice in the care sector](https://github.com/opencarecc/opencareProjectDeliverables/blob/master/WP4/D4.6%20Research%20paper%20-%20Using%20collective%20intelligence%20to%20improve%20care%20-%20an%20empirical%20study%20on%20best%20practice%20in%20the%20care%20sector.pdf)
 
