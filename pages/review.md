@@ -21,3 +21,9 @@ permalink: review
 # WP2 Convene, nurture, drive and monitor a large-scale online
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSBflrqFo64fh67v0sjfMiXtEgXCsb4HPclxWNZFz97sP0OkfrG5cG92EG0xmj5tePXcDBTRuvO9Pvw/embed?start=false&loop=true&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+---
+
+# WP5 - building the ICT stack to support digital ethnography
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRAavDN5LHggyglDtWCSorg3xj8IsqbRmzvWV0mxMj0Kss5lMGsetjeLCGkkpmYcBER7cnkU1EgQyZK/embed?start=false&loop=true&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
