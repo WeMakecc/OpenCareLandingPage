@@ -3,6 +3,10 @@
 
 - title: CONFERENCE
   url: /conference
+    - title: DOCUMENTATION
+      url: /conference/documentation
+    - title: VISUAL NOTES
+      url: /conference/visualnotes
 
 - title: OPENVILLAGE
   url: http://festival.edgeryders.eu/

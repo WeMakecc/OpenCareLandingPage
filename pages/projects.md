@@ -41,6 +41,7 @@ permalink: projects/
   - is an open source interface designed for speaking numeric values and service messages to meet the needs of blind citizens or people who are unable to read or in contexts where it is uncomfortable to use the display to read values on a monitor.
 
 <br>
+
 - ### [MAKER PLAYBOOK](http://makerplaybook.opencare.cc/)
 - The whole process was supported by the Maker Playbook “Co-designing care services: a practical guide” which shares to a wider public the how-to of the engagement processes, the co- design sessions, the prototyping and sharing documentation approach.
 
