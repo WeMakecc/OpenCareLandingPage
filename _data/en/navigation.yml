@@ -3,6 +3,7 @@
 
 - title: CONFERENCE
   url: /conference
+  sublinks:
     - title: DOCUMENTATION
       url: /conference/documentation
     - title: VISUAL NOTES
